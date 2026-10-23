@@ -46,6 +46,10 @@ We favor clear product requirements, security-conscious implementation, consiste
 
 Organizations modernizing internal workflows, businesses seeking purpose-built applications, and founders building SaaS products or AI-powered services.
 
+## Products & brands
+
+Explore the [PROCESS IN Product & Brand Registry](docs/registry.en.md) ([Македонски](docs/registry.mk.md)) for selected platforms, official domains and their primary purposes. This public directory distinguishes company, product, founder identity and internal tools.
+
 ## Official resources
 
 - **Website:** https://processin.mk
