@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/process-in-hero.svg" alt="PROCESS IN — Enterprise Software, SaaS and AI Engineering" width="100%" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://processin.mk/storage/logo/processin-logo-2026-finall-1.png" /><img src="https://processin.mk/storage/logo/processin-logo-2026-finall-1.png" alt="PROCESS IN — Your Enterprise IT & AI Partner (official logo)" width="650" /></picture>\n\n<br/>\n\n<img src="assets/process-in-hero.svg" alt="PROCESS IN — Animated software engineering code editor and AI product development hero" width="100%" />
 
 <br/>
 
