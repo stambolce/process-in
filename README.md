@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/process-in-code-hero-v2.svg" alt="PROCESS IN — Animated code editor, TypeScript and AI product engineering" width="100%" />
+<a href="https://processin.mk"><img src="https://processin.mk/storage/logo/processin-logo-2026-finall-1.png" alt="Official PROCESS IN logo" width="360" style="background-color:#ffffff;padding:18px;border-radius:12px;" /></a>
 
 <br/>
 
-<a href="https://processin.mk"><img src="https://processin.mk/storage/logo/processin-logo-2026-finall-1.png" alt="Official PROCESS IN logo" width="360" style="background-color:#ffffff;padding:18px;border-radius:12px;" /></a>
+<img src="assets/process-in-code-hero-v2.svg" alt="PROCESS IN — Animated code editor, TypeScript and AI product engineering" width="100%" />
 
 <br/>
 
