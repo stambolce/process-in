@@ -1,6 +1,10 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://processin.mk/storage/logo/processin-logo-2026-finall-1.png" /><img src="https://processin.mk/storage/logo/processin-logo-2026-finall-1.png" alt="PROCESS IN — Your Enterprise IT & AI Partner (official logo)" width="650" /></picture>\n\n<br/>\n\n<img src="assets/process-in-hero.svg" alt="PROCESS IN — Animated software engineering code editor and AI product development hero" width="100%" />
+<img src="assets/process-in-code-hero-v2.svg" alt="PROCESS IN — Animated code editor, TypeScript and AI product engineering" width="100%" />
+
+<br/>
+
+<a href="https://processin.mk"><img src="https://processin.mk/storage/logo/processin-logo-2026-finall-1.png" alt="Official PROCESS IN logo" width="360" /></a>
 
 <br/>
 
