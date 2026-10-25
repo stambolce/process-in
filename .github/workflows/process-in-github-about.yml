@@ -1,12 +1,15 @@
 name: Update PROCESS IN repository About
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '17 4 * * *'
 permissions:
   contents: read
 jobs:
   update-about:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - name: Update repository metadata
         env:
           GH_TOKEN: ${{ secrets.PORTFOLIO_METADATA_TOKEN }}
@@ -46,3 +49,9 @@ jobs:
           update_repo 'stambolce' 'PROCESS IN founder'"'"'s GitHub profile and software portfolio.' '' 'github-profile,software-engineering,saas,process-in'
           if [[ "$failed" -ne 0 ]]; then echo "::error::Some updates failed; review logs"; exit 1; fi
           echo "All repository metadata updates completed."
+      - name: Discover new PROCESS IN repositories
+        env:
+          GH_TOKEN: ${{ secrets.PORTFOLIO_METADATA_TOKEN }}
+        shell: bash
+        run: |
+          bash .github/scripts/discover-process-in-repos.sh
