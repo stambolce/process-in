@@ -1,0 +1,48 @@
+name: Update PROCESS IN repository About
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  update-about:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update repository metadata
+        env:
+          GH_TOKEN: ${{ secrets.PORTFOLIO_METADATA_TOKEN }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [[ -z "${GH_TOKEN:-}" ]]; then echo "::error::Missing PORTFOLIO_METADATA_TOKEN secret"; exit 1; fi
+          failed=0
+          update_repo() {
+            local repo="$1" description="$2" website="$3" topics="$4"
+            echo "::group::$repo"
+            local payload
+            payload=$(jq -nc --arg description "$description" --arg website "$website" 'if $website == "" then {description:$description} else {description:$description,homepage:$website} end')
+            if ! gh api -X PATCH "repos/stambolce/$repo" --input - <<<"$payload" >/dev/null; then
+              echo "::error::$repo description/website update failed"; failed=1
+            fi
+            local topics_json
+            topics_json=$(jq -nc --arg topics "$topics" '{names:($topics | split(","))}')
+            if ! gh api -X PUT "repos/stambolce/$repo/topics" -H "Accept: application/vnd.github+json" --input - <<<"$topics_json" >/dev/null; then
+              echo "::error::$repo topics update failed"; failed=1
+            fi
+            echo "::endgroup::"
+          }
+          update_repo 'process-in' 'Enterprise software, SaaS platforms and AI-powered business solutions by PROCESS IN.' 'https://processin.mk' 'process-in,saas,enterprise-software,software-development,macedonia'
+          update_repo 'rezerv' 'Fitness management software for gyms, Pilates, yoga, memberships, bookings and payments.' 'https://rezerv.mk' 'fitness-management,gym-management,booking-system,saas,memberships'
+          update_repo 'dentaldesk' 'Dental practice management software for patients, appointments, clinical workflows and clinics.' 'https://dentaldesk.mk' 'dental-software,practice-management,appointments,saas,healthcare'
+          update_repo 'vetdesk' 'Veterinary practice management software for clinics, patient records, bookings and inventory.' 'https://vetdesk.mk' 'veterinary-software,practice-management,appointments,saas,inventory'
+          update_repo 'assetdesk' 'IT asset management software for equipment tracking, inventory, QR codes and reporting.' '' 'asset-management,it-asset-management,inventory-management,qr-code,saas'
+          update_repo 'evento' 'Event ticketing platform for organizers, online ticket sales, validation and event management.' '' 'event-management,ticketing,event-ticketing,saas,online-tickets'
+          update_repo 'coder' 'AI-powered website and application builder with no-code development workflows.' 'https://coder.mk' 'ai-website-builder,no-code,ai,website-builder,saas'
+          update_repo 'codehub' 'Developer platform for code snippets, projects, prompts and digital resources.' '' 'developer-tools,code-snippets,developer-resources,ai-prompts,software-development'
+          update_repo 'toolkit' 'Online productivity, developer, security and marketing tools for everyday workflows.' '' 'developer-tools,productivity-tools,security-tools,marketing-tools,web-tools'
+          update_repo 'validate' 'Survey and research platform for collecting feedback and turning ideas into decisions.' '' 'surveys,customer-feedback,market-research,idea-validation,saas'
+          update_repo 'flowing' 'Domain intelligence platform for website security, malware, IP reputation, DNS, email and technical analysis.' 'https://flowing.mk' 'domain-intelligence,dns,website-security,malware-detection,email-security'
+          update_repo 'construct' 'Construction management software for projects, materials, procurement, costs and operations.' '' 'construction-management,project-management,procurement,construction-software,saas'
+          update_repo 'inhost' 'Web hosting, domain registration, infrastructure and business hosting solutions by PROCESS IN.' 'https://inhost.mk' 'web-hosting,domain-registration,hosting,infrastructure,macedonia'
+          update_repo 'stambolce' 'PROCESS IN founder'"'"'s GitHub profile and software portfolio.' '' 'github-profile,software-engineering,saas,process-in'
+          if [[ "$failed" -ne 0 ]]; then echo "::error::Some updates failed; review logs"; exit 1; fi
+          echo "All repository metadata updates completed."
