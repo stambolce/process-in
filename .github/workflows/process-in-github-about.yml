@@ -10,6 +10,37 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Rename product repositories (idempotent)
+        env:
+          GH_TOKEN: ${{ secrets.PORTFOLIO_METADATA_TOKEN }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          rename_repo() {
+            local old="$1" new="$2"
+            if gh api "repos/stambolce/$new" --jq '.name' 2>/dev/null | grep -Fxq "$new"; then
+              echo "Already renamed: $new"
+              return
+            fi
+            if ! gh api "repos/stambolce/$old" --jq '.name' 2>/dev/null | grep -Fxq "$old"; then
+              echo "::error::Neither original nor renamed repository found: $old / $new"
+              return 1
+            fi
+            echo "Renaming $old to $new"
+            gh api -X PATCH "repos/stambolce/$old" -f name="$new" >/dev/null
+          }
+          rename_repo 'flowing' 'flowing-domain-intelligence'
+          rename_repo 'rezerv' 'rezerv-fitness-management'
+          rename_repo 'construct' 'construct-construction-os'
+          rename_repo 'dentaldesk' 'dentaldesk-practice-management'
+          rename_repo 'vetdesk' 'vetdesk-veterinary-software'
+          rename_repo 'assetdesk' 'assetdesk-it-asset-management'
+          rename_repo 'evento' 'evento-ticketing-platform'
+          rename_repo 'coder' 'coder-ai-website-builder'
+          rename_repo 'codehub' 'codehub-developer-platform'
+          rename_repo 'toolkit' 'toolkit-online-tools'
+          rename_repo 'validate' 'validate-survey-platform'
+          rename_repo 'inhost' 'inhost-web-hosting'
       - name: Update repository metadata
         env:
           GH_TOKEN: ${{ secrets.PORTFOLIO_METADATA_TOKEN }}
@@ -34,18 +65,18 @@ jobs:
             echo "::endgroup::"
           }
           update_repo 'process-in' 'PROCESS IN — Enterprise Software, SaaS & AI Solutions. Building modern platforms for businesses.' 'https://processin.mk' 'process-in,saas,enterprise-software,software-development,macedonia'
-          update_repo 'rezerv' 'REZERV — Fitness & Wellness Management. Memberships, bookings and payments for gyms and studios.' 'https://rezerv.mk' 'fitness-management,gym-management,booking-system,saas,memberships'
-          update_repo 'dentaldesk' 'DentalDesk — Dental Practice Management. Patients, appointments and clinical workflows.' 'https://dentaldesk.mk' 'dental-software,practice-management,appointments,saas,healthcare'
-          update_repo 'vetdesk' 'VetDesk — Veterinary Practice Management. Clinical records, bookings and inventory.' 'https://vetdesk.mk' 'veterinary-software,practice-management,appointments,saas,inventory'
-          update_repo 'assetdesk' 'AssetDesk — IT Asset Management. Equipment tracking, inventory, QR codes and reporting.' '' 'asset-management,it-asset-management,inventory-management,qr-code,saas'
-          update_repo 'evento' 'EVENTO — Event Ticketing & Management Platform. Ticket sales, validation and organizer tools.' '' 'event-management,ticketing,event-ticketing,saas,online-tickets'
-          update_repo 'coder' 'CODER — AI Website & App Builder. Create websites and applications with AI-powered workflows.' 'https://coder.mk' 'ai-website-builder,no-code,ai,website-builder,saas'
-          update_repo 'codehub' 'CodeHub — Developer Platform. Code snippets, projects, prompts and digital resources.' '' 'developer-tools,code-snippets,developer-resources,ai-prompts,software-development'
-          update_repo 'toolkit' 'Toolkit — Online Tools Platform. Productivity, developer, security and marketing tools.' '' 'developer-tools,productivity-tools,security-tools,marketing-tools,web-tools'
-          update_repo 'validate' 'VALIDATE — Survey & Research Platform. Collect feedback and turn ideas into decisions.' '' 'surveys,customer-feedback,market-research,idea-validation,saas'
-          update_repo 'flowing' 'FLOWING — Domain & Website Intelligence Platform. DNS, security, reputation and email intelligence.' 'https://flowing.mk' 'domain-intelligence,dns,website-security,malware-detection,email-security'
-          update_repo 'construct' 'CONSTRUCT — Construction Management OS. Projects, materials, procurement, costs and operations.' '' 'construction-management,project-management,procurement,construction-software,saas'
-          update_repo 'inhost' 'INHOST — Web Hosting & Domain Services. Hosting, domains and business infrastructure.' 'https://inhost.mk' 'web-hosting,domain-registration,hosting,infrastructure,macedonia'
+          update_repo 'rezerv-fitness-management' 'REZERV — Fitness & Wellness Management. Memberships, bookings and payments for gyms and studios.' 'https://rezerv.mk' 'fitness-management,gym-management,booking-system,saas,memberships'
+          update_repo 'dentaldesk-practice-management' 'DentalDesk — Dental Practice Management. Patients, appointments and clinical workflows.' 'https://dentaldesk.mk' 'dental-software,practice-management,appointments,saas,healthcare'
+          update_repo 'vetdesk-veterinary-software' 'VetDesk — Veterinary Practice Management. Clinical records, bookings and inventory.' 'https://vetdesk.mk' 'veterinary-software,practice-management,appointments,saas,inventory'
+          update_repo 'assetdesk-it-asset-management' 'AssetDesk — IT Asset Management. Equipment tracking, inventory, QR codes and reporting.' '' 'asset-management,it-asset-management,inventory-management,qr-code,saas'
+          update_repo 'evento-ticketing-platform' 'EVENTO — Event Ticketing & Management Platform. Ticket sales, validation and organizer tools.' '' 'event-management,ticketing,event-ticketing,saas,online-tickets'
+          update_repo 'coder-ai-website-builder' 'CODER — AI Website & App Builder. Create websites and applications with AI-powered workflows.' 'https://coder.mk' 'ai-website-builder,no-code,ai,website-builder,saas'
+          update_repo 'codehub-developer-platform' 'CodeHub — Developer Platform. Code snippets, projects, prompts and digital resources.' '' 'developer-tools,code-snippets,developer-resources,ai-prompts,software-development'
+          update_repo 'toolkit-online-tools' 'Toolkit — Online Tools Platform. Productivity, developer, security and marketing tools.' '' 'developer-tools,productivity-tools,security-tools,marketing-tools,web-tools'
+          update_repo 'validate-survey-platform' 'VALIDATE — Survey & Research Platform. Collect feedback and turn ideas into decisions.' '' 'surveys,customer-feedback,market-research,idea-validation,saas'
+          update_repo 'flowing-domain-intelligence' 'FLOWING — Domain & Website Intelligence Platform. DNS, security, reputation and email intelligence.' 'https://flowing.mk' 'domain-intelligence,dns,website-security,malware-detection,email-security'
+          update_repo 'construct-construction-os' 'CONSTRUCT — Construction Management OS. Projects, materials, procurement, costs and operations.' '' 'construction-management,project-management,procurement,construction-software,saas'
+          update_repo 'inhost-web-hosting' 'INHOST — Web Hosting & Domain Services. Hosting, domains and business infrastructure.' 'https://inhost.mk' 'web-hosting,domain-registration,hosting,infrastructure,macedonia'
           update_repo 'stambolce' 'Stambol Dev — Software Engineering & SaaS Portfolio. Projects by the founder of PROCESS IN.' '' 'github-profile,software-engineering,saas,process-in'
           if [[ "$failed" -ne 0 ]]; then echo "::error::Some updates failed; review logs"; exit 1; fi
           echo "All repository metadata updates completed."
