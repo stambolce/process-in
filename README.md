@@ -97,6 +97,7 @@ Our portfolio spans vertical SaaS, developer tools, automation, AI, ticketing, i
 | **[EVENTO](https://evento.mk)** | Ticketing, organizers, admissions and event operations |
 | **[DentalDesk](https://dentaldesk.mk)** | Dental practice software and patient workflows |
 | **[VetDesk](https://vetdesk.mk)** | Veterinary clinic management |
+| **[GoPlay](https://github.com/stambolce/goplay-sports-marketplace)** | Sports marketplace and service discovery |
 | **[TeamDesk](https://github.com/stambolce/teamdesk-sports-performance)** | Sports training, coaching and athlete performance |
 | **[Appify](https://github.com/stambolce/appify-mobile-app-builder)** | Website-to-mobile-app platform for businesses |
 | **[AssetDesk](https://assetdesk.mk)** | IT asset lifecycle, inventory and QR workflows |
