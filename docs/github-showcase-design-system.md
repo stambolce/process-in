@@ -50,3 +50,11 @@ Reference quality: [Validate](https://github.com/stambolce/validate-survey-platf
 - [ ] Portfolio and About metadata automation linked
 
 **Source of truth:** This standard and the real product information, not copied generic prose.
+## Discoverability and content depth
+
+- Write substantial, product-specific documentation that answers genuine buyer and user questions: what it is, how it works, modules, industries, roles, workflows, integrations, benefits, terminology and common decision criteria.
+- Favor semantic coverage and precise, natural explanations over repetition or keyword stuffing. More text alone does not guarantee search visibility.
+- Include Macedonian and English terminology where relevant; do not leave English feature descriptions untranslated in the MK document.
+- Describe real, owner-confirmed functionality confidently, but never invent metrics, endorsements, external integrations, prices or screenshots.
+- Add accurate page titles, descriptive image alt text, relevant links and consistent product/category naming. GitHub repository metadata must match the content.
+- Audit every existing showcase for completeness and visual parity, rather than applying the standard only to new repositories.
