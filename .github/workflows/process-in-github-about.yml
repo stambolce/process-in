@@ -33,20 +33,20 @@ jobs:
             fi
             echo "::endgroup::"
           }
-          update_repo 'process-in' 'Enterprise software, SaaS platforms and AI-powered business solutions by PROCESS IN.' 'https://processin.mk' 'process-in,saas,enterprise-software,software-development,macedonia'
-          update_repo 'rezerv' 'Fitness management software for gyms, Pilates, yoga, memberships, bookings and payments.' 'https://rezerv.mk' 'fitness-management,gym-management,booking-system,saas,memberships'
-          update_repo 'dentaldesk' 'Dental practice management software for patients, appointments, clinical workflows and clinics.' 'https://dentaldesk.mk' 'dental-software,practice-management,appointments,saas,healthcare'
-          update_repo 'vetdesk' 'Veterinary practice management software for clinics, patient records, bookings and inventory.' 'https://vetdesk.mk' 'veterinary-software,practice-management,appointments,saas,inventory'
-          update_repo 'assetdesk' 'IT asset management software for equipment tracking, inventory, QR codes and reporting.' '' 'asset-management,it-asset-management,inventory-management,qr-code,saas'
-          update_repo 'evento' 'Event ticketing platform for organizers, online ticket sales, validation and event management.' '' 'event-management,ticketing,event-ticketing,saas,online-tickets'
-          update_repo 'coder' 'AI-powered website and application builder with no-code development workflows.' 'https://coder.mk' 'ai-website-builder,no-code,ai,website-builder,saas'
-          update_repo 'codehub' 'Developer platform for code snippets, projects, prompts and digital resources.' '' 'developer-tools,code-snippets,developer-resources,ai-prompts,software-development'
-          update_repo 'toolkit' 'Online productivity, developer, security and marketing tools for everyday workflows.' '' 'developer-tools,productivity-tools,security-tools,marketing-tools,web-tools'
-          update_repo 'validate' 'Survey and research platform for collecting feedback and turning ideas into decisions.' '' 'surveys,customer-feedback,market-research,idea-validation,saas'
-          update_repo 'flowing' 'Domain intelligence platform for website security, malware, IP reputation, DNS, email and technical analysis.' 'https://flowing.mk' 'domain-intelligence,dns,website-security,malware-detection,email-security'
-          update_repo 'construct' 'Construction management software for projects, materials, procurement, costs and operations.' '' 'construction-management,project-management,procurement,construction-software,saas'
-          update_repo 'inhost' 'Web hosting, domain registration, infrastructure and business hosting solutions by PROCESS IN.' 'https://inhost.mk' 'web-hosting,domain-registration,hosting,infrastructure,macedonia'
-          update_repo 'stambolce' 'PROCESS IN founder'"'"'s GitHub profile and software portfolio.' '' 'github-profile,software-engineering,saas,process-in'
+          update_repo 'process-in' 'PROCESS IN — Enterprise Software, SaaS & AI Solutions. Building modern platforms for businesses.' 'https://processin.mk' 'process-in,saas,enterprise-software,software-development,macedonia'
+          update_repo 'rezerv' 'REZERV — Fitness & Wellness Management. Memberships, bookings and payments for gyms and studios.' 'https://rezerv.mk' 'fitness-management,gym-management,booking-system,saas,memberships'
+          update_repo 'dentaldesk' 'DentalDesk — Dental Practice Management. Patients, appointments and clinical workflows.' 'https://dentaldesk.mk' 'dental-software,practice-management,appointments,saas,healthcare'
+          update_repo 'vetdesk' 'VetDesk — Veterinary Practice Management. Clinical records, bookings and inventory.' 'https://vetdesk.mk' 'veterinary-software,practice-management,appointments,saas,inventory'
+          update_repo 'assetdesk' 'AssetDesk — IT Asset Management. Equipment tracking, inventory, QR codes and reporting.' '' 'asset-management,it-asset-management,inventory-management,qr-code,saas'
+          update_repo 'evento' 'EVENTO — Event Ticketing & Management Platform. Ticket sales, validation and organizer tools.' '' 'event-management,ticketing,event-ticketing,saas,online-tickets'
+          update_repo 'coder' 'CODER — AI Website & App Builder. Create websites and applications with AI-powered workflows.' 'https://coder.mk' 'ai-website-builder,no-code,ai,website-builder,saas'
+          update_repo 'codehub' 'CodeHub — Developer Platform. Code snippets, projects, prompts and digital resources.' '' 'developer-tools,code-snippets,developer-resources,ai-prompts,software-development'
+          update_repo 'toolkit' 'Toolkit — Online Tools Platform. Productivity, developer, security and marketing tools.' '' 'developer-tools,productivity-tools,security-tools,marketing-tools,web-tools'
+          update_repo 'validate' 'VALIDATE — Survey & Research Platform. Collect feedback and turn ideas into decisions.' '' 'surveys,customer-feedback,market-research,idea-validation,saas'
+          update_repo 'flowing' 'FLOWING — Domain & Website Intelligence Platform. DNS, security, reputation and email intelligence.' 'https://flowing.mk' 'domain-intelligence,dns,website-security,malware-detection,email-security'
+          update_repo 'construct' 'CONSTRUCT — Construction Management OS. Projects, materials, procurement, costs and operations.' '' 'construction-management,project-management,procurement,construction-software,saas'
+          update_repo 'inhost' 'INHOST — Web Hosting & Domain Services. Hosting, domains and business infrastructure.' 'https://inhost.mk' 'web-hosting,domain-registration,hosting,infrastructure,macedonia'
+          update_repo 'stambolce' 'Stambol Dev — Software Engineering & SaaS Portfolio. Projects by the founder of PROCESS IN.' '' 'github-profile,software-engineering,saas,process-in'
           if [[ "$failed" -ne 0 ]]; then echo "::error::Some updates failed; review logs"; exit 1; fi
           echo "All repository metadata updates completed."
       - name: Discover new PROCESS IN repositories
