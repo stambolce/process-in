@@ -3,7 +3,7 @@ set -euo pipefail
 : "${GH_TOKEN:?Missing PORTFOLIO_METADATA_TOKEN}"
 # Only opt in public repositories with explicit PROCESS IN attribution in README.
 # Existing curated repos are managed by the workflow above.
-known='|process-in|rezerv|dentaldesk|vetdesk|assetdesk|evento|coder|codehub|toolkit|validate|flowing|construct|inhost|stambolce|'
+known='|process-in|rezerv-fitness-management|dentaldesk-practice-management|vetdesk-veterinary-software|assetdesk-it-asset-management|evento-ticketing-platform|coder-ai-website-builder|codehub-developer-platform|toolkit-online-tools|validate-survey-platform|flowing-domain-intelligence|construct-construction-os|inhost-web-hosting|stambolce|'
 failed=0
 while IFS= read -r row; do
   name=$(jq -r '.name' <<<"$row")
