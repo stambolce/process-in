@@ -98,7 +98,7 @@ Our portfolio spans vertical SaaS, developer tools, automation, AI, ticketing, i
 | **[DentalDesk](https://dentaldesk.mk)** | Dental practice software and patient workflows |
 | **[VetDesk](https://vetdesk.mk)** | Veterinary clinic management |
 | **[AssetDesk](https://assetdesk.mk)** | IT asset lifecycle, inventory and QR workflows |
-| **[EstateSpace](https://estatespace.mk)** | White-label real estate website SaaS |
+| **[EstateSpace](https://github.com/stambolce/estatespace-real-estate-saas)** | White-label real estate website SaaS |
 | **[Coder](https://coder.mk)** | AI-powered no-code building |
 | **[CodeHub](https://codehub.mk)** | Developer resources and marketplace |
 | **[Validate](https://validate.mk)** | Surveys, feedback and decision validation |
