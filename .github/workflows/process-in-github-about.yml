@@ -77,6 +77,7 @@ jobs:
           update_repo 'flowing-domain-intelligence' 'FLOWING — Domain & Website Intelligence Platform. DNS, security, reputation and email intelligence.' 'https://flowing.mk' 'domain-intelligence,dns,website-security,malware-detection,email-security'
           update_repo 'construct-construction-os' 'CONSTRUCT — Construction Management OS. Projects, materials, procurement, costs and operations.' '' 'construction-management,project-management,procurement,construction-software,saas'
           update_repo 'inhost-web-hosting' 'INHOST — Web Hosting & Domain Services. Hosting, domains and business infrastructure.' 'https://inhost.mk' 'web-hosting,domain-registration,hosting,infrastructure,macedonia'
+          update_repo 'appify-mobile-app-builder' 'Appify — Website-to-Mobile-App Builder. Android apps, WordPress integration and mobile experiences.' 'https://appify.mk' 'mobile-app-builder,website-to-app,android,wordpress,saas'
           update_repo 'estatespace-real-estate-saas' 'EstateSpace — White-Label Real Estate Website SaaS. Branded property websites for real estate agencies.' 'https://estatespace.mk' 'real-estate,real-estate-saas,white-label,multi-tenant,property-listings'
           update_repo 'stambolce' 'Stambol Dev — Software Engineering & SaaS Portfolio. Projects by the founder of PROCESS IN.' '' 'github-profile,software-engineering,saas,process-in'
           if [[ "$failed" -ne 0 ]]; then echo "::error::Some updates failed; review logs"; exit 1; fi
