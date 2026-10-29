@@ -1,0 +1,25 @@
+name: Publish approved PROCESS IN showcases
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'portfolio-release/**'
+      - '.github/workflows/publish-portfolio-showcases.yml'
+permissions:
+  contents: read
+concurrency:
+  group: process-in-showcase-publication
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Publish reviewed public marketing files
+        env:
+          GH_TOKEN: ${{ secrets.PORTFOLIO_METADATA_TOKEN }}
+        run: |
+          set -euo pipefail
+          test -f portfolio-release/publish.mjs || { echo "No release prepared"; exit 0; }
+          node portfolio-release/publish.mjs
