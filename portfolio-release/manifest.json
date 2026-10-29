@@ -1,0 +1,127 @@
+{
+  "products": [
+    {
+      "slug": "findjob-employment-platform",
+      "name": "FindJob",
+      "description": "FindJob — Employment. Official LIVE product showcase by PROCESS IN.",
+      "website": "https://findjob.mk",
+      "topics": [
+        "jobs",
+        "recruitment",
+        "employment",
+        "macedonia",
+        "process-in"
+      ]
+    },
+    {
+      "slug": "glampoint-platform",
+      "name": "Glampoint",
+      "description": "Glampoint — Salon operations. Official LIVE product showcase by PROCESS IN.",
+      "website": "https://glampoint.mk",
+      "topics": [
+        "salon-management",
+        "appointments",
+        "booking",
+        "process-in"
+      ]
+    },
+    {
+      "slug": "influencer-platform",
+      "name": "Influencer",
+      "description": "Influencer — Creator marketing. Official LIVE product showcase by PROCESS IN.",
+      "website": "https://influencer.mk",
+      "topics": [
+        "influencer-marketing",
+        "creators",
+        "marketplace",
+        "process-in"
+      ]
+    },
+    {
+      "slug": "roadmap-platform",
+      "name": "Roadmap",
+      "description": "Roadmap — Product feedback. Official LIVE product showcase by PROCESS IN.",
+      "website": "https://roadmap.mk",
+      "topics": [
+        "product-management",
+        "customer-feedback",
+        "roadmap",
+        "changelog",
+        "process-in"
+      ]
+    },
+    {
+      "slug": "vleznica-platform",
+      "name": "Vleznica",
+      "description": "Vleznica — Events & ticketing. Official LIVE product showcase by PROCESS IN.",
+      "website": "https://vleznica.mk",
+      "topics": [
+        "events",
+        "ticketing",
+        "event-discovery",
+        "process-in"
+      ]
+    },
+    {
+      "slug": "vtickets-platform",
+      "name": "VTickets",
+      "description": "VTickets — Sports ticketing. Official LIVE product showcase by PROCESS IN.",
+      "website": "https://vtickets.mk",
+      "topics": [
+        "handball",
+        "sports-ticketing",
+        "tickets",
+        "process-in"
+      ]
+    },
+    {
+      "slug": "wetransfer-mk-platform",
+      "name": "WeTransfer.mk",
+      "description": "WeTransfer.mk — File sharing. Official LIVE product showcase by PROCESS IN.",
+      "website": "https://wetransfer.mk",
+      "topics": [
+        "file-sharing",
+        "file-transfer",
+        "collaboration",
+        "process-in"
+      ]
+    },
+    {
+      "slug": "workflow-business-platform",
+      "name": "Workflow",
+      "description": "Workflow — Recruitment & HR. Official LIVE product showcase by PROCESS IN.",
+      "website": "https://workflow.mk",
+      "topics": [
+        "hrms",
+        "ats",
+        "recruitment",
+        "human-resources",
+        "process-in"
+      ]
+    },
+    {
+      "slug": "workplace-platform",
+      "name": "Workplace",
+      "description": "Workplace — Freelance marketplace. Official LIVE product showcase by PROCESS IN.",
+      "website": "https://workplace.mk",
+      "topics": [
+        "freelance",
+        "marketplace",
+        "professional-services",
+        "process-in"
+      ]
+    },
+    {
+      "slug": "prompt-platform",
+      "name": "Prompt",
+      "description": "Prompt — AI resources. Official LIVE product showcase by PROCESS IN.",
+      "website": "https://prompt.mk",
+      "topics": [
+        "ai-prompts",
+        "agent-skills",
+        "marketplace",
+        "process-in"
+      ]
+    }
+  ]
+}
