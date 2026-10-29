@@ -12,13 +12,15 @@
 [![Explore](https://img.shields.io/badge/Explore-Platform-14223c?style=for-the-badge)](https://prompt.mk/explore)
 [![PROCESS IN](https://img.shields.io/badge/Created_by-PROCESS_IN-1476e8?style=for-the-badge)](https://processin.mk)
 
-**LIVE** · Confirmed by the owner
+**LIVE**
 
 </div>
 
-## The product
+## Find an AI resource that matches the task and the model.
 
-Prompt presents a marketplace and community for AI prompts, agent skills and creative systems. Its explore page organizes discovery by resource type, model and subject.
+An AI prompt is useful only in context: what it is intended to produce, which model it is meant for and how it fits the user's task. A resource for an image model serves a different purpose from a text prompt or an agent skill.
+
+Prompt presents a marketplace and community organized around those differences. Its Explore page lets users narrow discovery by resource type, model, category, price and rating.
 
 ## How to get started
 
@@ -40,17 +42,27 @@ Prompt presents a marketplace and community for AI prompts, agent skills and cre
 | **Rating filter** | Filter by minimum rating. |
 | **Marketplace discovery** | Combine the available filters. |
 
-## Who it is for
+## Who it helps—and what they need
 
-AI users, creators and professionals looking for reusable creative resources.
+| Audience | Practical use |
+|---|---|
+| **Creative AI users** | Explore image, video, audio and creative-subject resources. |
+| **Professionals** | Look for resources around writing, marketing, development, productivity or business tasks. |
+| **People exploring agent skills** | Use the resource-type and model filters to focus discovery on agent-related material. |
 
-## Practical scenario
+## Real situations to use it
 
-A creator narrows discovery to a resource type and model before reviewing available listings.
+### Preparing a creative task
 
-## Product experience
+Choose the output type and intended model, then narrow the category before reviewing available listings.
 
-The illustration above presents the product's purpose conceptually. Visit the official website for the current interface, available options and terms.
+### Comparing free and paid resources
+
+Use price and rating filters alongside the resource's intended task and model.
+
+## Why consider this solution
+
+The product's discovery structure helps reduce mismatches between a resource and its intended use. Model, type and subject are practical selection criteria. Available listings determine what can be explored at a given time; the category structure itself is not an inventory count.
 
 
 ## Product information
@@ -75,4 +87,8 @@ Presentation sources: [1](https://prompt.mk/explore).
 
 ---
 
-<sub>Public product showcase. No proprietary application code, customer data or production secrets are included. This presentation does not grant an open-source license to the product.</sub>
+<sub>Public product presentation. No proprietary application code or customer data.</sub>
+
+
+This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
+Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·

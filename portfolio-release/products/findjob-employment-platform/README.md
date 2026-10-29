@@ -12,13 +12,15 @@
 [![Explore](https://img.shields.io/badge/Explore-Platform-14223c?style=for-the-badge)](https://findjob.mk/)
 [![PROCESS IN](https://img.shields.io/badge/Created_by-PROCESS_IN-1476e8?style=for-the-badge)](https://processin.mk)
 
-**LIVE** · Confirmed by the owner
+**LIVE**
 
 </div>
 
-## The product
+## Make the next hiring decision easier to understand.
 
-FindJob brings job discovery, employer information and candidate applications into a Macedonian employment portal. Candidates can explore opportunities, while companies present their organization and publish vacancies.
+A candidate needs more than a job title: the role, location, type of employment and employer must fit their situation. A company needs a clear way to present the position and give applicants enough context to decide whether to apply.
+
+FindJob brings vacancies, company profiles and candidate-facing application sections into one local employment portal. It connects the discovery of a role with the information needed to prepare an application. For employers, the practical starting point is a well-defined vacancy supported by a company profile.
 
 ## How to get started
 
@@ -40,17 +42,27 @@ FindJob brings job discovery, employer information and candidate applications in
 | **Applications** | The application form includes a CV and cover letter. |
 | **Employer publishing** | Company-facing navigation includes vacancy publishing and applications. |
 
-## Who it is for
+## Who it helps—and what they need
 
-Job seekers, employers and recruitment teams looking for a local employment channel.
+| Audience | Practical use |
+|---|---|
+| **Job seekers** | Explore relevant roles, compare employment types and prepare a CV and cover letter for the position. |
+| **Employers** | Present the business and publish a specific requirement rather than relying on an informal call for candidates. |
+| **Recruitment teams** | Use the employer and application sections as the product's entry points into recruitment work. |
 
-## Practical scenario
+## Real situations to use it
 
-A candidate can compare roles by location and employment type before preparing an application. An employer can present its company alongside an advertised position.
+### Changing careers
 
-## Product experience
+Start with a field and location, review the employer, then adapt the application to the actual role.
 
-The illustration above presents the product's purpose conceptually. Visit the official website for the current interface, available options and terms.
+### Hiring for a specific position
+
+Describe duties and qualifications clearly, present the company and direct applicants to the vacancy.
+
+## Why consider this solution
+
+The value is in connecting the vacancy with its context. Candidates can research a company alongside a role; employers can make the requirement more concrete. Search filters help reduce irrelevant exploration before either side invests time in an application.
 
 
 ## Product information
@@ -75,4 +87,8 @@ Presentation sources: [1](https://findjob.mk/) · [2](https://findjob.mk/jobs) �
 
 ---
 
-<sub>Public product showcase. No proprietary application code, customer data or production secrets are included. This presentation does not grant an open-source license to the product.</sub>
+<sub>Public product presentation. No proprietary application code or customer data.</sub>
+
+
+This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
+Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·

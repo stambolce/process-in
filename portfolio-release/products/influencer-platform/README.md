@@ -12,13 +12,15 @@
 [![Explore](https://img.shields.io/badge/Explore-Platform-14223c?style=for-the-badge)](https://influencer.mk/)
 [![PROCESS IN](https://img.shields.io/badge/Created_by-PROCESS_IN-1476e8?style=for-the-badge)](https://processin.mk)
 
-**LIVE** · Confirmed by the owner
+**LIVE**
 
 </div>
 
-## The product
+## Start with the campaign's audience. Find the creator who fits.
 
-Influencer connects brands and content creators through a local marketing marketplace. Visitors can explore creator profiles, campaign listings and offered creative services.
+A brand looking for a creator needs to understand the subject, creative offer and audience fit before choosing a collaboration. A creator needs a place where that offer is visible as professional work, with more context than a social handle.
+
+Influencer brings creator discovery, service offers and campaign listings together. It gives brands a route from a campaign need to relevant profiles, while creators can present the type of content they offer.
 
 ## How to get started
 
@@ -40,17 +42,27 @@ Influencer connects brands and content creators through a local marketing market
 | **Creative scope** | Use service descriptions to understand the offer. |
 | **Support** | Contact the platform for assistance. |
 
-## Who it is for
+## Who it helps—and what they need
 
-Brands, marketing teams and creators seeking relevant collaborations.
+| Audience | Practical use |
+|---|---|
+| **Brands** | Explore creators and services around the product and audience they want to reach. |
+| **Marketing teams** | Compare creative scope against a campaign brief before selecting a direction. |
+| **Creators** | Present service offers and explore the campaign side of the marketplace. |
 
-## Practical scenario
+## Real situations to use it
 
-A beauty brand can compare relevant content offers before choosing the creative direction for a campaign.
+### Launching a skincare product
 
-## Product experience
+Review relevant beauty-content offers and prepare a brief covering the product, intended audience and required content.
 
-The illustration above presents the product's purpose conceptually. Visit the official website for the current interface, available options and terms.
+### Planning a technology campaign
+
+Compare profiles and service descriptions for relevance to the product before discussing the campaign scope.
+
+## Why consider this solution
+
+The useful comparison is the fit between the brief and the creator's offer. Profiles, services and campaigns provide different parts of that context. A clear requirement helps a brand assess relevance and helps the creator understand what the collaboration needs to produce.
 
 
 ## Product information
@@ -75,4 +87,8 @@ Presentation sources: [1](https://influencer.mk/).
 
 ---
 
-<sub>Public product showcase. No proprietary application code, customer data or production secrets are included. This presentation does not grant an open-source license to the product.</sub>
+<sub>Public product presentation. No proprietary application code or customer data.</sub>
+
+
+This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
+Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·

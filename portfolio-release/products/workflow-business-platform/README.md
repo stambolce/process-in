@@ -12,13 +12,15 @@
 [![Explore](https://img.shields.io/badge/Explore-Platform-14223c?style=for-the-badge)](https://workflow.mk/)
 [![PROCESS IN](https://img.shields.io/badge/Created_by-PROCESS_IN-1476e8?style=for-the-badge)](https://processin.mk)
 
-**LIVE** · Confirmed by the owner
+**LIVE**
 
 </div>
 
-## The product
+## Connect the hiring process with the employee's next step.
 
-Workflow combines applicant tracking and human resources in a company workspace. Its public site presents a connected path from recruitment to employee operations, with Macedonian and English entry points.
+Recruitment and HR work on different parts of the same employee journey. The hiring team follows candidates and interviews; HR needs to prepare employee information, attendance, leave and onboarding. The handoff matters because a successful hire is the beginning of employee operations.
+
+Workflow presents applicant tracking and HR management inside a company workspace. The public product scope connects recruitment stages with the processes that follow a hiring decision.
 
 ## How to get started
 
@@ -40,17 +42,27 @@ Workflow combines applicant tracking and human resources in a company workspace.
 | **Attendance & leave** | Manage attendance, shifts and leave. |
 | **Onboarding** | Connect hiring with employee onboarding. |
 
-## Who it is for
+## Who it helps—and what they need
 
-Hiring teams, HR departments and companies coordinating recruitment and people operations.
+| Audience | Practical use |
+|---|---|
+| **Hiring teams** | Organize candidates, interview scheduling and evaluation around hiring stages. |
+| **HR departments** | Maintain employee information and coordinate attendance, leave and onboarding. |
+| **Company administrators** | Start with a company workspace and access the connected recruitment and HR areas. |
 
-## Practical scenario
+## Real situations to use it
 
-A hiring team maintains a candidate pipeline while HR prepares onboarding for selected hires.
+### Hiring and onboarding a new colleague
 
-## Product experience
+Follow the candidate through recruitment, then prepare the employee information and onboarding work.
 
-The illustration above presents the product's purpose conceptually. Visit the official website for the current interface, available options and terms.
+### Coordinating day-to-day HR
+
+Bring employee records, attendance and leave into the same HR working context.
+
+## Why consider this solution
+
+The practical reason to evaluate Workflow is continuity. Recruitment explains how a person joins the business; HR supports what happens after that decision. A connected workspace gives the two teams a common product context while retaining their distinct responsibilities.
 
 
 ## Product information
@@ -75,4 +87,8 @@ Presentation sources: [1](https://workflow.mk/).
 
 ---
 
-<sub>Public product showcase. No proprietary application code, customer data or production secrets are included. This presentation does not grant an open-source license to the product.</sub>
+<sub>Public product presentation. No proprietary application code or customer data.</sub>
+
+
+This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
+Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·

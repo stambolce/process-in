@@ -12,13 +12,15 @@
 [![Explore](https://img.shields.io/badge/Explore-Platform-14223c?style=for-the-badge)](https://wetransfer.mk/)
 [![PROCESS IN](https://img.shields.io/badge/Created_by-PROCESS_IN-1476e8?style=for-the-badge)](https://processin.mk)
 
-**LIVE** · Confirmed by the owner
+**LIVE**
 
 </div>
 
-## The product
+## Give a digital handoff a clear place to begin.
 
-WeTransfer.mk is a local file-sharing service presented by PROCESS IN. Its public site focuses on uploading and transferring documents and media for personal and business collaboration.
+A project often needs a practical handoff: documents for a colleague, assets for a client or media from a creative collaborator. The recipient needs the files that belong to the work, and the sender needs a straightforward way to transfer them.
+
+WeTransfer.mk presents a local file-sharing service for that exchange. The public experience starts with file upload and includes account, membership and contact sections.
 
 ## How to get started
 
@@ -40,19 +42,28 @@ WeTransfer.mk is a local file-sharing service presented by PROCESS IN. Its publi
 | **Membership** | Review premium options on the site. |
 | **Contact** | Request assistance through the site. |
 
-## Who it is for
+## Who it helps—and what they need
 
-Individuals, creative professionals and businesses sharing digital work.
+| Audience | Practical use |
+|---|---|
+| **Creative professionals** | Transfer project assets, documents or media to collaborators. |
+| **Businesses** | Evaluate a file-transfer service for exchanging digital work. |
+| **Individuals** | Share documents and media through the available transfer options. |
 
-## Practical scenario
+## Real situations to use it
 
-A designer can use the service to transfer project assets to a client.
+### Sending a design handoff
 
-## Product experience
+Prepare the final assets and naming, select the files and follow the service's transfer instructions.
 
-The illustration above presents the product's purpose conceptually. Visit the official website for the current interface, available options and terms.
+### Exchanging project documents
 
-This presentation concerns wetransfer.mk only. It does not claim ownership of, or affiliation with, third-party trademarks.
+Group the relevant documents and check the transfer options and current service limits before sending.
+
+## Why consider this solution
+
+The value is a focused place for transferring files. A good handoff still starts with selecting the correct material and making its purpose clear to the recipient. The official service provides the current transfer options, membership terms and applicable limits.
+
 
 ## Product information
 
@@ -76,4 +87,8 @@ Presentation sources: [1](https://wetransfer.mk/).
 
 ---
 
-<sub>Public product showcase. No proprietary application code, customer data or production secrets are included. This presentation does not grant an open-source license to the product.</sub>
+<sub>Public product presentation. No proprietary application code or customer data.</sub>
+
+
+This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
+Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·

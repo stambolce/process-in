@@ -12,13 +12,15 @@
 [![Explore](https://img.shields.io/badge/Explore-Platform-14223c?style=for-the-badge)](https://roadmap.mk/)
 [![PROCESS IN](https://img.shields.io/badge/Created_by-PROCESS_IN-1476e8?style=for-the-badge)](https://processin.mk)
 
-**LIVE** · Confirmed by the owner
+**LIVE**
 
 </div>
 
-## The product
+## Give customer feedback a path into product decisions.
 
-Roadmap gives product teams a place to collect customer ideas, prioritize requests and communicate product direction. Feedback boards, roadmaps and changelogs keep the conversation connected.
+Customer requests can arrive as isolated ideas, repeated complaints or suggestions from different users. A product team needs to understand which requests matter, discuss their value and communicate what happens next.
+
+Roadmap connects feedback boards, votes and comments with prioritization, public or private roadmaps and a changelog. The purpose is a visible feedback loop: collect the request, decide its place in the plan and communicate progress back to the audience.
 
 ## How to get started
 
@@ -40,17 +42,27 @@ Roadmap gives product teams a place to collect customer ideas, prioritize reques
 | **Roadmaps** | Share public or private direction. |
 | **Changelog** | Announce product changes. |
 
-## Who it is for
+## Who it helps—and what they need
 
-Product managers and software teams managing customer feedback.
+| Audience | Practical use |
+|---|---|
+| **Product managers** | Compare requests and use benefit and cost scoring when deciding priorities. |
+| **Software teams** | Connect planned improvements with the feedback that motivated them. |
+| **Customer-facing teams** | Point users toward a shared feedback space and published product updates. |
 
-## Practical scenario
+## Real situations to use it
 
-Bring recurring customer requests together before deciding which improvements to communicate next.
+### Repeated feature requests
 
-## Product experience
+Bring related ideas together, review discussion and support, then compare their value with other requests.
 
-The illustration above presents the product's purpose conceptually. Visit the official website for the current interface, available options and terms.
+### Communicating a release
+
+Use the roadmap to explain direction and the changelog to describe what has changed.
+
+## Why consider this solution
+
+Roadmap gives feedback a visible continuation. Voting helps surface interest, discussion supplies context and prioritization supports a deliberate choice. The roadmap and changelog help keep the people who supplied the feedback informed.
 
 
 ## Product information
@@ -75,4 +87,8 @@ Presentation sources: [1](https://roadmap.mk/).
 
 ---
 
-<sub>Public product showcase. No proprietary application code, customer data or production secrets are included. This presentation does not grant an open-source license to the product.</sub>
+<sub>Public product presentation. No proprietary application code or customer data.</sub>
+
+
+This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
+Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·

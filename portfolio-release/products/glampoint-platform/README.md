@@ -12,13 +12,15 @@
 [![Explore](https://img.shields.io/badge/Explore-Platform-14223c?style=for-the-badge)](https://glampoint.mk/)
 [![PROCESS IN](https://img.shields.io/badge/Created_by-PROCESS_IN-1476e8?style=for-the-badge)](https://processin.mk)
 
-**LIVE** · Confirmed by the owner
+**LIVE**
 
 </div>
 
-## The product
+## Coordinate the appointment, the service and the person delivering it.
 
-Glampoint is a salon booking and operations platform. Its public site presents appointment calendars, staff availability, service selection and reporting for salon businesses.
+A salon's day depends on several things lining up: the requested service, the client's appointment and the staff member's availability. When these are considered separately, even a simple booking can require repeated checking.
+
+Glampoint brings appointment scheduling, staff working hours, services and operational reporting into the same product scope. The purpose is to help the salon organize the day around the work that needs to happen, with a calendar as a shared point of reference.
 
 ## How to get started
 
@@ -40,17 +42,27 @@ Glampoint is a salon booking and operations platform. Its public site presents a
 | **Reporting** | Review booking and revenue information. |
 | **Locations** | The site describes branch management options. |
 
-## Who it is for
+## Who it helps—and what they need
 
-Salon owners and teams coordinating client appointments.
+| Audience | Practical use |
+|---|---|
+| **Salon owners** | Review the booking schedule and the revenue and booking information presented in reports. |
+| **Reception and coordination staff** | Match requested visits with the salon's services and staff availability. |
+| **Growing salon businesses** | Evaluate the location and branch options presented on the official website. |
 
-## Practical scenario
+## Real situations to use it
 
-Use a shared booking overview to coordinate a stylist's availability with requested services.
+### Preparing tomorrow's schedule
 
-## Product experience
+Review appointments against working hours and identify what needs coordination before the day begins.
 
-The illustration above presents the product's purpose conceptually. Visit the official website for the current interface, available options and terms.
+### Reviewing the business
+
+Use booking and revenue reports to examine operational patterns alongside the appointment calendar.
+
+## Why consider this solution
+
+The practical benefit is a connected view of the salon day. Scheduling describes when the work happens; staff and service information explain what the booking requires. Reports add a way to review operations after appointments have taken place.
 
 
 ## Product information
@@ -75,4 +87,8 @@ Presentation sources: [1](https://glampoint.mk/).
 
 ---
 
-<sub>Public product showcase. No proprietary application code, customer data or production secrets are included. This presentation does not grant an open-source license to the product.</sub>
+<sub>Public product presentation. No proprietary application code or customer data.</sub>
+
+
+This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
+Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·
