@@ -199,6 +199,46 @@
         "analytics",
         "process-in"
       ]
+    },
+    {
+      "slug": "astrology-ai-platform",
+      "name": "Astrology",
+      "description": "Astrology — AI astrology & consultations. LIVE platform by PROCESS IN.",
+      "website": "https://astrology.mk",
+      "topics": [
+        "astrology",
+        "consultations",
+        "ai",
+        "mobile-app",
+        "process-in"
+      ]
+    },
+    {
+      "slug": "creativedesk-ai-platform",
+      "name": "CreativeDesk",
+      "description": "CreativeDesk — AI content & creative work. LIVE platform by PROCESS IN.",
+      "website": "https://creativedesk.mk",
+      "topics": [
+        "ai",
+        "content-creation",
+        "copywriting",
+        "speech-to-text",
+        "developer-tools",
+        "process-in"
+      ]
+    },
+    {
+      "slug": "helpdesk-support-platform",
+      "name": "HelpDesk",
+      "description": "HelpDesk — Support request coordination. LIVE platform by PROCESS IN.",
+      "website": "https://helpdesk.mk",
+      "topics": [
+        "helpdesk",
+        "customer-support",
+        "request-management",
+        "team-coordination",
+        "process-in"
+      ]
     }
   ]
 }
