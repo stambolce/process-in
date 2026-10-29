@@ -88,6 +88,10 @@ Linux hosting environments, deployment pipelines, performance troubleshooting, i
 
 </div>
 
+## Product catalogue
+
+**[Browse by category — English](docs/portfolio.en.md) · [Македонски](docs/portfolio.mk.md)**
+
 ## Selected products & platforms
 
 Our portfolio spans vertical SaaS, developer tools, automation, AI, ticketing, infrastructure and business software.
