@@ -239,6 +239,32 @@
         "team-coordination",
         "process-in"
       ]
+    },
+    {
+      "slug": "loyaltyhub-rewards-platform",
+      "name": "LoyaltyHub",
+      "website": "https://loyaltyhub.mk",
+      "description": "LoyaltyHub — Loyalty cards, membership clubs and points. LIVE product by PROCESS IN.",
+      "topics": [
+        "loyalty",
+        "rewards",
+        "membership",
+        "customer-retention",
+        "process-in"
+      ]
+    },
+    {
+      "slug": "woodesk-platform",
+      "name": "WooDesk",
+      "website": "https://woodesk.mk",
+      "description": "WooDesk — An operating system for managing WooCommerce. LIVE product by PROCESS IN.",
+      "topics": [
+        "woocommerce",
+        "ecommerce",
+        "store-management",
+        "business-operations",
+        "process-in"
+      ]
     }
   ]
 }
