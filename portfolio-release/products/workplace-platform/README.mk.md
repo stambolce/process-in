@@ -9,6 +9,9 @@
 
 [English](README.md) · [Македонски](README.mk.md)
 
+<a href="https://workplace.mk/"><img src="assets/product-hero.svg" width="100%" alt="Workplace — маркетплејс за фриленс услуги и проекти; концептуална визуелизација" /></a>
+
+
 [![Веб-страница](https://img.shields.io/badge/WORKPLACE.MK-ОФИЦИЈАЛНА_СТРАНИЦА-1476E8?style=for-the-badge)](https://workplace.mk/)
 [![Услуги](https://img.shields.io/badge/ИСТРАЖИ-УСЛУГИ-14223C?style=for-the-badge)](https://workplace.mk/search)
 [![PROCESS IN](https://img.shields.io/badge/CREATED_BY-PROCESS_IN-1476E8?style=for-the-badge)](https://processin.mk)

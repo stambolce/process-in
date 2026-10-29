@@ -9,6 +9,9 @@ For businesses buying professional help. For freelancers turning skills into a c
 
 [English](README.md) · [Македонски](README.mk.md)
 
+<a href="https://workplace.mk/"><img src="assets/product-hero.svg" width="100%" alt="Workplace — freelance services and project marketplace; conceptual illustration" /></a>
+
+
 [![Website](https://img.shields.io/badge/WORKPLACE.MK-OFFICIAL_WEBSITE-1476E8?style=for-the-badge)](https://workplace.mk/)
 [![Services](https://img.shields.io/badge/EXPLORE-SERVICES-14223C?style=for-the-badge)](https://workplace.mk/search)
 [![PROCESS IN](https://img.shields.io/badge/CREATED_BY-PROCESS_IN-1476E8?style=for-the-badge)](https://processin.mk)
