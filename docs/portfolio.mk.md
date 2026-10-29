@@ -53,10 +53,10 @@
 |---|---|---|---|
 | **Influencer** · [influencer.mk](https://influencer.mk) | Инфлуенсер маркетинг | LIVE | [Презентација](https://github.com/stambolce/influencer-platform) |
 | **LoyaltyHub** · [loyaltyhub.mk](https://loyaltyhub.mk) | Платформа за лојалност и награди; LIVE платформа на PROCESS IN | LIVE | — |
-| **Shorty** · [shorty.mk](https://shorty.mk) | Управување со линкови | LIVE | [Презентација](../portfolio-release/products/shorty-url-shortener/README.mk.md) |
-| **SocialFlow** · [socialflow.mk](https://socialflow.mk) | Пораки и автоматизација | LIVE | [Презентација](../portfolio-release/products/socialflow-messaging-platform/README.mk.md) |
-| **SocialPilot** · [socialpilot.mk](https://socialpilot.mk) | Објавување на социјални мрежи | LIVE | [Презентација](../portfolio-release/products/socialpilot-platform/README.mk.md) |
-| **TrafficPilot** · [trafficpilot.mk](https://trafficpilot.mk) | Кампањи за веб-сообраќај | LIVE | [Презентација](../portfolio-release/products/trafficpilot-platform/README.mk.md) |
+| **Shorty** · [shorty.mk](https://shorty.mk) | Управување со линкови | LIVE | [Презентација](https://github.com/stambolce/shorty-url-shortener) |
+| **SocialFlow** · [socialflow.mk](https://socialflow.mk) | Пораки и автоматизација | LIVE | [Презентација](https://github.com/stambolce/socialflow-messaging-platform) |
+| **SocialPilot** · [socialpilot.mk](https://socialpilot.mk) | Објавување на социјални мрежи | LIVE | [Презентација](https://github.com/stambolce/socialpilot-platform) |
+| **TrafficPilot** · [trafficpilot.mk](https://trafficpilot.mk) | Кампањи за веб-сообраќај | LIVE | [Презентација](https://github.com/stambolce/trafficpilot-platform) |
 
 ## Спорт, фитнес и услуги
 
@@ -65,7 +65,7 @@
 | **Glampoint** · [glampoint.mk](https://glampoint.mk) | Салонско работење | LIVE | [Презентација](https://github.com/stambolce/glampoint-platform) |
 | **GoPlay** · [goplay.mk](https://goplay.mk) | Спортски маркетплејс и платформа за услуги | LIVE | [Презентација](https://github.com/stambolce/goplay-sports-marketplace) |
 | **TeamDesk** · [teamdesk.mk](https://teamdesk.mk) | Платформа за спортски тренинг, тренери и перформанси на спортисти | LIVE | [Презентација](https://github.com/stambolce/teamdesk-sports-performance) |
-| **ClockScript** · [clockscript.mk](https://clockscript.mk) | Изведба на тренинзи | LIVE | [Презентација](../portfolio-release/products/clockscript-platform/README.mk.md) |
+| **ClockScript** · [clockscript.mk](https://clockscript.mk) | Изведба на тренинзи | LIVE | [Презентација](https://github.com/stambolce/clockscript-platform) |
 | **REZERV** · [rezerv.mk](https://rezerv.mk) | Фитнес членства, резервации и работење | LIVE | [Презентација](https://github.com/stambolce/rezerv-fitness-management) |
 
 ## Настани
@@ -75,7 +75,7 @@
 | **EVENTO** · [evento.mk](https://evento.mk) | Продажба на билети, алатки за организатори и валидација на влезници | LIVE | [Презентација](https://github.com/stambolce/evento-ticketing-platform) |
 | **Vleznica** · [vleznica.mk](https://vleznica.mk) | Настани и билети | LIVE | [Презентација](https://github.com/stambolce/vleznica-platform) |
 | **VTickets** · [vtickets.mk](https://vtickets.mk) | Спортски билети | LIVE | [Презентација](https://github.com/stambolce/vtickets-platform) |
-| **WedFlow** · [wedflow.mk](https://wedflow.mk) | Планирање свадби | LIVE | [Презентација](../portfolio-release/products/wedflow-platform/README.mk.md) |
+| **WedFlow** · [wedflow.mk](https://wedflow.mk) | Планирање свадби | LIVE | [Презентација](https://github.com/stambolce/wedflow-platform) |
 
 ## Интерни платформи
 
@@ -107,8 +107,6 @@
 | Производ | Опис | Статус | GitHub |
 |---|---|---|---|
 | **INHOST** · [inhost.mk](https://inhost.mk) | Хостинг, домени и инфраструктура | LIVE | [Презентација](https://github.com/stambolce/inhost-web-hosting) |
-
-Шест дополнителни презентации се подготвени во овој репозиториум. Нивните линкови водат до подготвените фајлови додека се заврши создавањето на самостојните репозиториуми.
 
 ## Поврзани брендови
 

@@ -53,10 +53,10 @@ A dash in the GitHub column means that a standalone showcase has not yet been pu
 |---|---|---|---|
 | **Influencer** · [influencer.mk](https://influencer.mk) | Creator marketing | LIVE | [Showcase](https://github.com/stambolce/influencer-platform) |
 | **LoyaltyHub** · [loyaltyhub.mk](https://loyaltyhub.mk) | Loyalty and rewards platform; LIVE PROCESS IN platform | LIVE | — |
-| **Shorty** · [shorty.mk](https://shorty.mk) | Link management | LIVE | [Showcase](../portfolio-release/products/shorty-url-shortener/README.md) |
-| **SocialFlow** · [socialflow.mk](https://socialflow.mk) | Messaging & automation | LIVE | [Showcase](../portfolio-release/products/socialflow-messaging-platform/README.md) |
-| **SocialPilot** · [socialpilot.mk](https://socialpilot.mk) | Social publishing | LIVE | [Showcase](../portfolio-release/products/socialpilot-platform/README.md) |
-| **TrafficPilot** · [trafficpilot.mk](https://trafficpilot.mk) | Traffic campaigns | LIVE | [Showcase](../portfolio-release/products/trafficpilot-platform/README.md) |
+| **Shorty** · [shorty.mk](https://shorty.mk) | Link management | LIVE | [Showcase](https://github.com/stambolce/shorty-url-shortener) |
+| **SocialFlow** · [socialflow.mk](https://socialflow.mk) | Messaging & automation | LIVE | [Showcase](https://github.com/stambolce/socialflow-messaging-platform) |
+| **SocialPilot** · [socialpilot.mk](https://socialpilot.mk) | Social publishing | LIVE | [Showcase](https://github.com/stambolce/socialpilot-platform) |
+| **TrafficPilot** · [trafficpilot.mk](https://trafficpilot.mk) | Traffic campaigns | LIVE | [Showcase](https://github.com/stambolce/trafficpilot-platform) |
 
 ## Fitness & Services
 
@@ -65,7 +65,7 @@ A dash in the GitHub column means that a standalone showcase has not yet been pu
 | **Glampoint** · [glampoint.mk](https://glampoint.mk) | Salon operations | LIVE | [Showcase](https://github.com/stambolce/glampoint-platform) |
 | **GoPlay** · [goplay.mk](https://goplay.mk) | Sports marketplace and services platform | LIVE | [Showcase](https://github.com/stambolce/goplay-sports-marketplace) |
 | **TeamDesk** · [teamdesk.mk](https://teamdesk.mk) | Sports training, coaching and athlete performance platform | LIVE | [Showcase](https://github.com/stambolce/teamdesk-sports-performance) |
-| **ClockScript** · [clockscript.mk](https://clockscript.mk) | Workout execution | LIVE | [Showcase](../portfolio-release/products/clockscript-platform/README.md) |
+| **ClockScript** · [clockscript.mk](https://clockscript.mk) | Workout execution | LIVE | [Showcase](https://github.com/stambolce/clockscript-platform) |
 | **REZERV** · [rezerv.mk](https://rezerv.mk) | Fitness memberships, bookings and operations | LIVE | [Showcase](https://github.com/stambolce/rezerv-fitness-management) |
 
 ## Events
@@ -75,7 +75,7 @@ A dash in the GitHub column means that a standalone showcase has not yet been pu
 | **EVENTO** · [evento.mk](https://evento.mk) | Event ticketing, organizer tools and admission validation | LIVE | [Showcase](https://github.com/stambolce/evento-ticketing-platform) |
 | **Vleznica** · [vleznica.mk](https://vleznica.mk) | Events & ticketing | LIVE | [Showcase](https://github.com/stambolce/vleznica-platform) |
 | **VTickets** · [vtickets.mk](https://vtickets.mk) | Sports ticketing | LIVE | [Showcase](https://github.com/stambolce/vtickets-platform) |
-| **WedFlow** · [wedflow.mk](https://wedflow.mk) | Wedding planning | LIVE | [Showcase](../portfolio-release/products/wedflow-platform/README.md) |
+| **WedFlow** · [wedflow.mk](https://wedflow.mk) | Wedding planning | LIVE | [Showcase](https://github.com/stambolce/wedflow-platform) |
 
 ## Internal Intelligence
 
@@ -107,8 +107,6 @@ A dash in the GitHub column means that a standalone showcase has not yet been pu
 | Product | Focus | Status | GitHub |
 |---|---|---|---|
 | **INHOST** · [inhost.mk](https://inhost.mk) | Hosting, domains and infrastructure | LIVE | [Showcase](https://github.com/stambolce/inhost-web-hosting) |
-
-Six additional presentations are prepared in this repository. Their links point to the prepared files until standalone repository creation is completed.
 
 ## Related brands
 
