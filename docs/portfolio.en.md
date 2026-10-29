@@ -15,7 +15,7 @@ A dash in the GitHub column means that a standalone showcase has not yet been pu
 | **Appify** · [appify.mk](https://appify.mk) | Website-to-mobile-app conversion platform | LIVE | [Showcase](https://github.com/stambolce/appify-mobile-app-builder) |
 | **CodeHub** · [codehub.mk](https://codehub.mk) | Developer snippets, projects, prompts and marketplace | LIVE | [Showcase](https://github.com/stambolce/codehub-developer-platform) |
 | **Coder** · [coder.mk](https://coder.mk) | AI-powered no-code application and website builder | LIVE | [Showcase](https://github.com/stambolce/coder-ai-website-builder) |
-| **CreativeDesk** · [creativedesk.mk](https://creativedesk.mk) | AI content creation suite; planned brand destination for MagicAI / Magical | LIVE | — |
+| **CreativeDesk** · [creativedesk.mk](https://creativedesk.mk) | AI copywriting, images, chatbot, speech to text and coding | LIVE | [Showcase](https://github.com/stambolce/creativedesk-ai-platform) |
 | **Prompt** · [prompt.mk](https://prompt.mk) | AI resources | LIVE | [Showcase](https://github.com/stambolce/prompt-platform) |
 
 ## Business Operations
@@ -97,8 +97,8 @@ A dash in the GitHub column means that a standalone showcase has not yet been pu
 
 | Product | Focus | Status | GitHub |
 |---|---|---|---|
-| **Astrology** · [astrology.mk](https://astrology.mk) | AI-enabled astrology and consultation platform | LIVE | — |
-| **HelpDesk** · [helpdesk.mk](https://helpdesk.mk) | LIVE PROCESS IN platform | LIVE | — |
+| **Astrology** · [astrology.mk](https://astrology.mk) | AI-enabled astrology and consultation platform | LIVE | [Showcase](https://github.com/stambolce/astrology-ai-platform) |
+| **HelpDesk** · [helpdesk.mk](https://helpdesk.mk) | LIVE PROCESS IN platform | LIVE | [Showcase](https://github.com/stambolce/helpdesk-support-platform) |
 | **SalesBoost** · [salesboost.mk](https://salesboost.mk) | LIVE PROCESS IN platform | LIVE | — |
 | **WooDesk** · [woodesk.mk](https://woodesk.mk) | LIVE PROCESS IN platform | LIVE | — |
 

@@ -15,7 +15,7 @@
 | **Appify** · [appify.mk](https://appify.mk) | Платформа за претворање веб-страници во мобилни апликации | LIVE | [Презентација](https://github.com/stambolce/appify-mobile-app-builder) |
 | **CodeHub** · [codehub.mk](https://codehub.mk) | Платформа за програмерски код, проекти, промптови и маркетплејс | LIVE | [Презентација](https://github.com/stambolce/codehub-developer-platform) |
 | **Coder** · [coder.mk](https://coder.mk) | AI no-code платформа за изработка на апликации и веб-страници | LIVE | [Презентација](https://github.com/stambolce/coder-ai-website-builder) |
-| **CreativeDesk** · [creativedesk.mk](https://creativedesk.mk) | AI платформа за креирање содржина; планиран бренд за MagicAI / Magical | LIVE | — |
+| **CreativeDesk** · [creativedesk.mk](https://creativedesk.mk) | AI текстови, слики, четбот, транскрипција и кодирање | LIVE | [Презентација](https://github.com/stambolce/creativedesk-ai-platform) |
 | **Prompt** · [prompt.mk](https://prompt.mk) | AI ресурси | LIVE | [Презентација](https://github.com/stambolce/prompt-platform) |
 
 ## Деловни операции
@@ -97,8 +97,8 @@
 
 | Производ | Опис | Статус | GitHub |
 |---|---|---|---|
-| **Astrology** · [astrology.mk](https://astrology.mk) | AI платформа за астрологија и консултации | LIVE | — |
-| **HelpDesk** · [helpdesk.mk](https://helpdesk.mk) | LIVE платформа на PROCESS IN | LIVE | — |
+| **Astrology** · [astrology.mk](https://astrology.mk) | AI платформа за астрологија и консултации | LIVE | [Презентација](https://github.com/stambolce/astrology-ai-platform) |
+| **HelpDesk** · [helpdesk.mk](https://helpdesk.mk) | LIVE платформа на PROCESS IN | LIVE | [Презентација](https://github.com/stambolce/helpdesk-support-platform) |
 | **SalesBoost** · [salesboost.mk](https://salesboost.mk) | LIVE платформа на PROCESS IN | LIVE | — |
 | **WooDesk** · [woodesk.mk](https://woodesk.mk) | LIVE платформа на PROCESS IN | LIVE | — |
 

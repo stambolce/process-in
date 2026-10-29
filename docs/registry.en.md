@@ -12,11 +12,11 @@ This directory lists **41 domains** associated with PROCESS IN. **All are marked
 |---:|---|---|---|---|
 | 1 | **Appify** · [appify.mk](https://appify.mk) | LIVE | Website-to-mobile-app conversion platform | [Showcase](https://github.com/stambolce/appify-mobile-app-builder) |
 | 2 | **AssetDesk** · [assetdesk.mk](https://assetdesk.mk) | LIVE | IT asset management, inventory and QR workflows | [Showcase](https://github.com/stambolce/assetdesk-it-asset-management) |
-| 3 | **Astrology** · [astrology.mk](https://astrology.mk) | LIVE | AI-enabled astrology and consultation platform | — |
+| 3 | **Astrology** · [astrology.mk](https://astrology.mk) | LIVE | AI-enabled astrology and consultation platform | [Showcase](https://github.com/stambolce/astrology-ai-platform) |
 | 4 | **CodeHub** · [codehub.mk](https://codehub.mk) | LIVE | Developer snippets, projects, prompts and marketplace | [Showcase](https://github.com/stambolce/codehub-developer-platform) |
 | 5 | **Coder** · [coder.mk](https://coder.mk) | LIVE | AI-powered no-code application and website builder | [Showcase](https://github.com/stambolce/coder-ai-website-builder) |
 | 6 | **Construct** · [construct.mk](https://construct.mk) | LIVE | Construction project, materials and cost management | [Showcase](https://github.com/stambolce/construct-construction-os) |
-| 7 | **CreativeDesk** · [creativedesk.mk](https://creativedesk.mk) | LIVE | AI content platform; current brand associated with Magical | — |
+| 7 | **CreativeDesk** · [creativedesk.mk](https://creativedesk.mk) | LIVE | AI content platform; current brand associated with Magical | [Showcase](https://github.com/stambolce/creativedesk-ai-platform) |
 | 8 | **DentalDesk** · [dentaldesk.mk](https://dentaldesk.mk) | LIVE | Dental practice and patient management software | [Showcase](https://github.com/stambolce/dentaldesk-practice-management) |
 | 9 | **EstateSpace** · [estatespace.mk](https://estatespace.mk) | LIVE | White-label multi-tenant real estate website SaaS | [Showcase](https://github.com/stambolce/estatespace-real-estate-saas) |
 | 10 | **EVENTO** · [evento.mk](https://evento.mk) | LIVE | Event ticketing, organizer tools and admission validation | [Showcase](https://github.com/stambolce/evento-ticketing-platform) |
@@ -25,10 +25,10 @@ This directory lists **41 domains** associated with PROCESS IN. **All are marked
 | 13 | **Frilenseri** · [frilenseri.mk](https://frilenseri.mk) | LIVE | LIVE PROCESS IN platform | — |
 | 14 | **Glampoint** · [glampoint.mk](https://glampoint.mk) | LIVE | Salon operations | [Showcase](https://github.com/stambolce/glampoint-platform) |
 | 15 | **GoPlay** · [goplay.mk](https://goplay.mk) | LIVE | Sports marketplace and services platform | [Showcase](https://github.com/stambolce/goplay-sports-marketplace) |
-| 16 | **HelpDesk** · [helpdesk.mk](https://helpdesk.mk) | LIVE | LIVE PROCESS IN platform | — |
+| 16 | **HelpDesk** · [helpdesk.mk](https://helpdesk.mk) | LIVE | LIVE PROCESS IN platform | [Showcase](https://github.com/stambolce/helpdesk-support-platform) |
 | 17 | **Influencer** · [influencer.mk](https://influencer.mk) | LIVE | Creator marketing | [Showcase](https://github.com/stambolce/influencer-platform) |
 | 18 | **LoyaltyHub** · [loyaltyhub.mk](https://loyaltyhub.mk) | LIVE | Loyalty and rewards platform; LIVE PROCESS IN platform | — |
-| 19 | **Magical** · [magical.mk](https://magical.mk) | LIVE | Current/legacy AI brand associated with CreativeDesk brand | — |
+| 19 | **Magical** · [magical.mk](https://magical.mk) | LIVE | Current/legacy AI brand associated with CreativeDesk brand | [Showcase](https://github.com/stambolce/creativedesk-ai-platform) |
 | 20 | **MailBoost** · [mailboost.mk](https://mailboost.mk) | LIVE | Internal email campaign platform; current name for PowerInbox | [Showcase](https://github.com/stambolce/mailboost-email-platform) |
 | 21 | **PowerInbox** · [powerinbox.mk](https://powerinbox.mk) | LIVE | Current email outreach brand; related brand to MailBoost | [MailBoost](https://github.com/stambolce/mailboost-email-platform) |
 | 22 | **PROCESS IN** · [processin.mk](https://processin.mk) | LIVE | Official company website and software engineering services | [Company](https://github.com/stambolce/process-in) |

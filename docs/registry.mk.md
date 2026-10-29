@@ -12,11 +12,11 @@
 |---:|---|---|---|---|
 | 1 | **Appify** · [appify.mk](https://appify.mk) | LIVE | Платформа за претворање веб-страници во мобилни апликации | [Презентација](https://github.com/stambolce/appify-mobile-app-builder) |
 | 2 | **AssetDesk** · [assetdesk.mk](https://assetdesk.mk) | LIVE | Управување со ИТ средства, инвентар и QR процеси | [Презентација](https://github.com/stambolce/assetdesk-it-asset-management) |
-| 3 | **Astrology** · [astrology.mk](https://astrology.mk) | LIVE | AI платформа за астрологија и консултации | — |
+| 3 | **Astrology** · [astrology.mk](https://astrology.mk) | LIVE | AI платформа за астрологија и консултации | [Презентација](https://github.com/stambolce/astrology-ai-platform) |
 | 4 | **CodeHub** · [codehub.mk](https://codehub.mk) | LIVE | Платформа за програмерски код, проекти, промптови и маркетплејс | [Презентација](https://github.com/stambolce/codehub-developer-platform) |
 | 5 | **Coder** · [coder.mk](https://coder.mk) | LIVE | AI no-code платформа за изработка на апликации и веб-страници | [Презентација](https://github.com/stambolce/coder-ai-website-builder) |
 | 6 | **Construct** · [construct.mk](https://construct.mk) | LIVE | Управување со градежни проекти, материјали и трошоци | [Презентација](https://github.com/stambolce/construct-construction-os) |
-| 7 | **CreativeDesk** · [creativedesk.mk](https://creativedesk.mk) | LIVE | AI платформа за содржина; актуелен бренд поврзан со Magical | — |
+| 7 | **CreativeDesk** · [creativedesk.mk](https://creativedesk.mk) | LIVE | AI платформа за содржина; актуелен бренд поврзан со Magical | [Презентација](https://github.com/stambolce/creativedesk-ai-platform) |
 | 8 | **DentalDesk** · [dentaldesk.mk](https://dentaldesk.mk) | LIVE | Управување со стоматолошки ординации и пациенти | [Презентација](https://github.com/stambolce/dentaldesk-practice-management) |
 | 9 | **EstateSpace** · [estatespace.mk](https://estatespace.mk) | LIVE | White-label мултитенант SaaS за веб-страници за недвижности | [Презентација](https://github.com/stambolce/estatespace-real-estate-saas) |
 | 10 | **EVENTO** · [evento.mk](https://evento.mk) | LIVE | Продажба на билети, алатки за организатори и валидација на влезници | [Презентација](https://github.com/stambolce/evento-ticketing-platform) |
@@ -25,10 +25,10 @@
 | 13 | **Frilenseri** · [frilenseri.mk](https://frilenseri.mk) | LIVE | LIVE платформа на PROCESS IN | — |
 | 14 | **Glampoint** · [glampoint.mk](https://glampoint.mk) | LIVE | Салонско работење | [Презентација](https://github.com/stambolce/glampoint-platform) |
 | 15 | **GoPlay** · [goplay.mk](https://goplay.mk) | LIVE | Спортски маркетплејс и платформа за услуги | [Презентација](https://github.com/stambolce/goplay-sports-marketplace) |
-| 16 | **HelpDesk** · [helpdesk.mk](https://helpdesk.mk) | LIVE | LIVE платформа на PROCESS IN | — |
+| 16 | **HelpDesk** · [helpdesk.mk](https://helpdesk.mk) | LIVE | LIVE платформа на PROCESS IN | [Презентација](https://github.com/stambolce/helpdesk-support-platform) |
 | 17 | **Influencer** · [influencer.mk](https://influencer.mk) | LIVE | Инфлуенсер маркетинг | [Презентација](https://github.com/stambolce/influencer-platform) |
 | 18 | **LoyaltyHub** · [loyaltyhub.mk](https://loyaltyhub.mk) | LIVE | Платформа за лојалност и награди; LIVE платформа на PROCESS IN | — |
-| 19 | **Magical** · [magical.mk](https://magical.mk) | LIVE | Тековен/поранешен AI бренд поврзан со брендот CreativeDesk | — |
+| 19 | **Magical** · [magical.mk](https://magical.mk) | LIVE | Тековен/поранешен AI бренд поврзан со брендот CreativeDesk | [Презентација](https://github.com/stambolce/creativedesk-ai-platform) |
 | 20 | **MailBoost** · [mailboost.mk](https://mailboost.mk) | LIVE | Интерна платформа за email кампањи; актуелно име за PowerInbox | [Презентација](https://github.com/stambolce/mailboost-email-platform) |
 | 21 | **PowerInbox** · [powerinbox.mk](https://powerinbox.mk) | LIVE | Тековен бренд за email кампањи; поврзан бренд во MailBoost | [MailBoost](https://github.com/stambolce/mailboost-email-platform) |
 | 22 | **PROCESS IN** · [processin.mk](https://processin.mk) | LIVE | Официјална корпоративна веб-страница и софтверски услуги | [Компанија](https://github.com/stambolce/process-in) |
