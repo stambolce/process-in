@@ -8,7 +8,7 @@ async function api(path, method='GET', body) {
     method, headers: {Authorization:'Bearer '+token, Accept:'application/vnd.github+json', 'X-GitHub-Api-Version':'2022-11-28', 'Content-Type':'application/json'},
     body: body === undefined ? undefined : JSON.stringify(body)
   });
-  if (!response.ok) throw new Error(method+' '+path+' returned HTTP '+response.status);
+  if (!response.ok) { const detail = await response.json().catch(()=>({})); throw new Error(method+' '+path+' returned HTTP '+response.status+'; '+(detail.message || 'No explanation')+'; retry-after='+(response.headers.get('retry-after') || 'none')); }
   return response.status === 204 ? null : response.json();
 }
 const results = [];
