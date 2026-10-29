@@ -65,6 +65,10 @@ Bring employee records, attendance and leave into the same HR working context.
 The practical reason to evaluate Workflow is continuity. Recruitment explains how a person joins the business; HR supports what happens after that decision. A connected workspace gives the two teams a common product context while retaining their distinct responsibilities.
 
 
+## AI analysis and recruitment reporting
+
+Workflow connects ATS recruitment and HR management with AI analysis and reports. Teams can review candidate information and hiring activity in the context of the role, and use reporting to follow the recruitment process. Recruitment, analysis and employee operations share a company context.
+
 ## Product information
 
 | Detail | Value |

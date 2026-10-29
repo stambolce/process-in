@@ -22,12 +22,12 @@
 | 10 | **EVENTO** · [evento.mk](https://evento.mk) | LIVE | Продажба на билети, алатки за организатори и валидација на влезници | [Презентација](https://github.com/stambolce/evento-ticketing-platform) |
 | 11 | **FindJob** · [findjob.mk](https://findjob.mk) | LIVE | Вработување | [Презентација](https://github.com/stambolce/findjob-employment-platform) |
 | 12 | **Flowing** · [flowing.mk](https://flowing.mk) | LIVE | Интерна анализа на домени, DNS, SSL и деловни можности | [Презентација](https://github.com/stambolce/flowing-domain-intelligence) |
-| 13 | **Frilenseri** · [frilenseri.mk](https://frilenseri.mk) | LIVE | LIVE платформа на PROCESS IN | — |
+| 13 | **Frilenseri** · [frilenseri.mk](https://frilenseri.mk) | LIVE | Фриленс маркетплејс; иста платформа како Workplace | [Презентација](https://github.com/stambolce/workplace-platform) |
 | 14 | **Glampoint** · [glampoint.mk](https://glampoint.mk) | LIVE | Салонско работење | [Презентација](https://github.com/stambolce/glampoint-platform) |
 | 15 | **GoPlay** · [goplay.mk](https://goplay.mk) | LIVE | Спортски маркетплејс и платформа за услуги | [Презентација](https://github.com/stambolce/goplay-sports-marketplace) |
 | 16 | **HelpDesk** · [helpdesk.mk](https://helpdesk.mk) | LIVE | LIVE платформа на PROCESS IN | [Презентација](https://github.com/stambolce/helpdesk-support-platform) |
 | 17 | **Influencer** · [influencer.mk](https://influencer.mk) | LIVE | Инфлуенсер маркетинг | [Презентација](https://github.com/stambolce/influencer-platform) |
-| 18 | **LoyaltyHub** · [loyaltyhub.mk](https://loyaltyhub.mk) | LIVE | Платформа за лојалност и награди; LIVE платформа на PROCESS IN | — |
+| 18 | **LoyaltyHub** · [loyaltyhub.mk](https://loyaltyhub.mk) | LIVE | Картички за лојалност, клубови и поени | [Презентација](https://github.com/stambolce/loyaltyhub-rewards-platform) |
 | 19 | **Magical** · [magical.mk](https://magical.mk) | LIVE | Тековен/поранешен AI бренд поврзан со брендот CreativeDesk | [Презентација](https://github.com/stambolce/creativedesk-ai-platform) |
 | 20 | **MailBoost** · [mailboost.mk](https://mailboost.mk) | LIVE | Интерна платформа за email кампањи; актуелно име за PowerInbox | [Презентација](https://github.com/stambolce/mailboost-email-platform) |
 | 21 | **PowerInbox** · [powerinbox.mk](https://powerinbox.mk) | LIVE | Тековен бренд за email кампањи; поврзан бренд во MailBoost | [MailBoost](https://github.com/stambolce/mailboost-email-platform) |
@@ -47,8 +47,8 @@
 | 35 | **VTickets** · [vtickets.mk](https://vtickets.mk) | LIVE | Спортски билети | [Презентација](https://github.com/stambolce/vtickets-platform) |
 | 36 | **WedFlow** · [wedflow.mk](https://wedflow.mk) | LIVE | Планирање свадби | [Презентација](https://github.com/stambolce/wedflow-platform) |
 | 37 | **WeTransfer** · [wetransfer.mk](https://wetransfer.mk) | LIVE | Споделување датотеки | [Презентација](https://github.com/stambolce/wetransfer-mk-platform) |
-| 38 | **WooDesk** · [woodesk.mk](https://woodesk.mk) | LIVE | LIVE платформа на PROCESS IN | — |
-| 39 | **Workflow** · [workflow.mk](https://workflow.mk) | LIVE | Регрутација и HR | [Презентација](https://github.com/stambolce/workflow-business-platform) |
+| 38 | **WooDesk** · [woodesk.mk](https://woodesk.mk) | LIVE | Оперативен систем за управување со WooCommerce | [Презентација](https://github.com/stambolce/woodesk-platform) |
+| 39 | **Workflow** · [workflow.mk](https://workflow.mk) | LIVE | ATS и HR со AI анализи и извештаи | [Презентација](https://github.com/stambolce/workflow-business-platform) |
 | 40 | **Workplace** · [workplace.mk](https://workplace.mk) | LIVE | Фриленс маркетплејс | [Презентација](https://github.com/stambolce/workplace-platform) |
 | 41 | **ClockScript** · [clockscript.mk](https://clockscript.mk) | LIVE | Изведба на тренинзи | [Презентација](https://github.com/stambolce/clockscript-platform) |
 

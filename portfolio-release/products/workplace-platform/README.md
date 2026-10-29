@@ -22,6 +22,10 @@ For businesses buying professional help. For freelancers turning skills into a c
 
 ---
 
+## Workplace and Frilenseri — one platform, two domains
+
+[workplace.mk](https://workplace.mk) and [frilenseri.mk](https://frilenseri.mk) are two official domains for the same platform. Both domains support search visibility and represent the same product offering. This presentation covers both entry points.
+
 ## A business task needs a specialist. A specialist needs a way to be found.
 
 A company may need a landing page, a product video, translated content or a spreadsheet cleaned up. These are specific pieces of work, often outside the team's daily expertise. The first challenge is to turn “we need help” into a clear requirement, find someone who offers the relevant service and understand what that offer includes.

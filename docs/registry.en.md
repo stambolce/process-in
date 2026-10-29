@@ -22,12 +22,12 @@ This directory lists **41 domains** associated with PROCESS IN. **All are marked
 | 10 | **EVENTO** · [evento.mk](https://evento.mk) | LIVE | Event ticketing, organizer tools and admission validation | [Showcase](https://github.com/stambolce/evento-ticketing-platform) |
 | 11 | **FindJob** · [findjob.mk](https://findjob.mk) | LIVE | Employment | [Showcase](https://github.com/stambolce/findjob-employment-platform) |
 | 12 | **Flowing** · [flowing.mk](https://flowing.mk) | LIVE | Internal domain, DNS, SSL and business opportunity intelligence | [Showcase](https://github.com/stambolce/flowing-domain-intelligence) |
-| 13 | **Frilenseri** · [frilenseri.mk](https://frilenseri.mk) | LIVE | LIVE PROCESS IN platform | — |
+| 13 | **Frilenseri** · [frilenseri.mk](https://frilenseri.mk) | LIVE | Freelance marketplace; same platform as Workplace | [Showcase](https://github.com/stambolce/workplace-platform) |
 | 14 | **Glampoint** · [glampoint.mk](https://glampoint.mk) | LIVE | Salon operations | [Showcase](https://github.com/stambolce/glampoint-platform) |
 | 15 | **GoPlay** · [goplay.mk](https://goplay.mk) | LIVE | Sports marketplace and services platform | [Showcase](https://github.com/stambolce/goplay-sports-marketplace) |
 | 16 | **HelpDesk** · [helpdesk.mk](https://helpdesk.mk) | LIVE | LIVE PROCESS IN platform | [Showcase](https://github.com/stambolce/helpdesk-support-platform) |
 | 17 | **Influencer** · [influencer.mk](https://influencer.mk) | LIVE | Creator marketing | [Showcase](https://github.com/stambolce/influencer-platform) |
-| 18 | **LoyaltyHub** · [loyaltyhub.mk](https://loyaltyhub.mk) | LIVE | Loyalty and rewards platform; LIVE PROCESS IN platform | — |
+| 18 | **LoyaltyHub** · [loyaltyhub.mk](https://loyaltyhub.mk) | LIVE | Loyalty cards, membership clubs and points | [Showcase](https://github.com/stambolce/loyaltyhub-rewards-platform) |
 | 19 | **Magical** · [magical.mk](https://magical.mk) | LIVE | Current/legacy AI brand associated with CreativeDesk brand | [Showcase](https://github.com/stambolce/creativedesk-ai-platform) |
 | 20 | **MailBoost** · [mailboost.mk](https://mailboost.mk) | LIVE | Internal email campaign platform; current name for PowerInbox | [Showcase](https://github.com/stambolce/mailboost-email-platform) |
 | 21 | **PowerInbox** · [powerinbox.mk](https://powerinbox.mk) | LIVE | Current email outreach brand; related brand to MailBoost | [MailBoost](https://github.com/stambolce/mailboost-email-platform) |
@@ -47,8 +47,8 @@ This directory lists **41 domains** associated with PROCESS IN. **All are marked
 | 35 | **VTickets** · [vtickets.mk](https://vtickets.mk) | LIVE | Sports ticketing | [Showcase](https://github.com/stambolce/vtickets-platform) |
 | 36 | **WedFlow** · [wedflow.mk](https://wedflow.mk) | LIVE | Wedding planning | [Showcase](https://github.com/stambolce/wedflow-platform) |
 | 37 | **WeTransfer** · [wetransfer.mk](https://wetransfer.mk) | LIVE | File sharing | [Showcase](https://github.com/stambolce/wetransfer-mk-platform) |
-| 38 | **WooDesk** · [woodesk.mk](https://woodesk.mk) | LIVE | LIVE PROCESS IN platform | — |
-| 39 | **Workflow** · [workflow.mk](https://workflow.mk) | LIVE | Recruitment & HR | [Showcase](https://github.com/stambolce/workflow-business-platform) |
+| 38 | **WooDesk** · [woodesk.mk](https://woodesk.mk) | LIVE | Operating system for managing WooCommerce | [Showcase](https://github.com/stambolce/woodesk-platform) |
+| 39 | **Workflow** · [workflow.mk](https://workflow.mk) | LIVE | ATS and HR with AI analysis and reporting | [Showcase](https://github.com/stambolce/workflow-business-platform) |
 | 40 | **Workplace** · [workplace.mk](https://workplace.mk) | LIVE | Freelance marketplace | [Showcase](https://github.com/stambolce/workplace-platform) |
 | 41 | **ClockScript** · [clockscript.mk](https://clockscript.mk) | LIVE | Workout execution | [Showcase](https://github.com/stambolce/clockscript-platform) |
 

@@ -37,7 +37,7 @@
 | Производ | Опис | Статус | GitHub |
 |---|---|---|---|
 | **EstateSpace** · [estatespace.mk](https://estatespace.mk) | White-label мултитенант SaaS за веб-страници за недвижности | LIVE | [Презентација](https://github.com/stambolce/estatespace-real-estate-saas) |
-| **Frilenseri** · [frilenseri.mk](https://frilenseri.mk) | LIVE платформа на PROCESS IN | LIVE | — |
+| **Frilenseri** · [frilenseri.mk](https://frilenseri.mk) | Фриленс маркетплејс; иста платформа како Workplace | LIVE | [Презентација](https://github.com/stambolce/workplace-platform) |
 | **Workplace** · [workplace.mk](https://workplace.mk) | Фриленс маркетплејс | LIVE | [Презентација](https://github.com/stambolce/workplace-platform) |
 
 ## Вработување и човечки ресурси
@@ -45,14 +45,14 @@
 | Производ | Опис | Статус | GitHub |
 |---|---|---|---|
 | **FindJob** · [findjob.mk](https://findjob.mk) | Вработување | LIVE | [Презентација](https://github.com/stambolce/findjob-employment-platform) |
-| **Workflow** · [workflow.mk](https://workflow.mk) | Регрутација и HR | LIVE | [Презентација](https://github.com/stambolce/workflow-business-platform) |
+| **Workflow** · [workflow.mk](https://workflow.mk) | ATS и HR со AI анализи и извештаи | LIVE | [Презентација](https://github.com/stambolce/workflow-business-platform) |
 
 ## Маркетинг и комуникација
 
 | Производ | Опис | Статус | GitHub |
 |---|---|---|---|
 | **Influencer** · [influencer.mk](https://influencer.mk) | Инфлуенсер маркетинг | LIVE | [Презентација](https://github.com/stambolce/influencer-platform) |
-| **LoyaltyHub** · [loyaltyhub.mk](https://loyaltyhub.mk) | Платформа за лојалност и награди; LIVE платформа на PROCESS IN | LIVE | — |
+| **LoyaltyHub** · [loyaltyhub.mk](https://loyaltyhub.mk) | Картички за лојалност, клубови и поени | LIVE | [Презентација](https://github.com/stambolce/loyaltyhub-rewards-platform) |
 | **Shorty** · [shorty.mk](https://shorty.mk) | Управување со линкови | LIVE | [Презентација](https://github.com/stambolce/shorty-url-shortener) |
 | **SocialFlow** · [socialflow.mk](https://socialflow.mk) | Пораки и автоматизација | LIVE | [Презентација](https://github.com/stambolce/socialflow-messaging-platform) |
 | **SocialPilot** · [socialpilot.mk](https://socialpilot.mk) | Објавување на социјални мрежи | LIVE | [Презентација](https://github.com/stambolce/socialpilot-platform) |
@@ -100,7 +100,7 @@
 | **Astrology** · [astrology.mk](https://astrology.mk) | AI платформа за астрологија и консултации | LIVE | [Презентација](https://github.com/stambolce/astrology-ai-platform) |
 | **HelpDesk** · [helpdesk.mk](https://helpdesk.mk) | LIVE платформа на PROCESS IN | LIVE | [Презентација](https://github.com/stambolce/helpdesk-support-platform) |
 | **SalesBoost** · [salesboost.mk](https://salesboost.mk) | LIVE платформа на PROCESS IN | LIVE | — |
-| **WooDesk** · [woodesk.mk](https://woodesk.mk) | LIVE платформа на PROCESS IN | LIVE | — |
+| **WooDesk** · [woodesk.mk](https://woodesk.mk) | Оперативен систем за управување со WooCommerce | LIVE | [Презентација](https://github.com/stambolce/woodesk-platform) |
 
 ## Инфраструктура
 
@@ -113,7 +113,7 @@
 - [CreativeDesk](https://creativedesk.mk) / [Magical](https://magical.mk)
 - [MailBoost](https://mailboost.mk) / [PowerInbox](https://powerinbox.mk)
 
-Frilenseri.mk моментално прикажува WORKPlace, а woodesk.mk прикажува Workflow. До појаснување на нивниот однос не се создаваат дополнителни презентации што би можеле да бидат дупликати.
+Frilenseri.mk и Workplace.mk се два официјални домена за истата платформа и делат една продуктна презентација. WooDesk е посебен производ за управување со WooCommerce. SalesBoost останува LIVE во регистарот; неговата GitHub презентација е одложена по барање на сопственикот.
 
 [PROCESS IN](https://processin.mk) · [Регистар на домени](registry.mk.md) · [contact@processin.mk](mailto:contact@processin.mk)
 

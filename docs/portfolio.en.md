@@ -37,7 +37,7 @@ A dash in the GitHub column means that a standalone showcase has not yet been pu
 | Product | Focus | Status | GitHub |
 |---|---|---|---|
 | **EstateSpace** · [estatespace.mk](https://estatespace.mk) | White-label multi-tenant real estate website SaaS | LIVE | [Showcase](https://github.com/stambolce/estatespace-real-estate-saas) |
-| **Frilenseri** · [frilenseri.mk](https://frilenseri.mk) | LIVE PROCESS IN platform | LIVE | — |
+| **Frilenseri** · [frilenseri.mk](https://frilenseri.mk) | Freelance marketplace; same platform as Workplace | LIVE | [Showcase](https://github.com/stambolce/workplace-platform) |
 | **Workplace** · [workplace.mk](https://workplace.mk) | Freelance marketplace | LIVE | [Showcase](https://github.com/stambolce/workplace-platform) |
 
 ## Employment & People
@@ -45,14 +45,14 @@ A dash in the GitHub column means that a standalone showcase has not yet been pu
 | Product | Focus | Status | GitHub |
 |---|---|---|---|
 | **FindJob** · [findjob.mk](https://findjob.mk) | Employment | LIVE | [Showcase](https://github.com/stambolce/findjob-employment-platform) |
-| **Workflow** · [workflow.mk](https://workflow.mk) | Recruitment & HR | LIVE | [Showcase](https://github.com/stambolce/workflow-business-platform) |
+| **Workflow** · [workflow.mk](https://workflow.mk) | ATS and HR with AI analysis and reporting | LIVE | [Showcase](https://github.com/stambolce/workflow-business-platform) |
 
 ## Marketing & Communication
 
 | Product | Focus | Status | GitHub |
 |---|---|---|---|
 | **Influencer** · [influencer.mk](https://influencer.mk) | Creator marketing | LIVE | [Showcase](https://github.com/stambolce/influencer-platform) |
-| **LoyaltyHub** · [loyaltyhub.mk](https://loyaltyhub.mk) | Loyalty and rewards platform; LIVE PROCESS IN platform | LIVE | — |
+| **LoyaltyHub** · [loyaltyhub.mk](https://loyaltyhub.mk) | Loyalty cards, membership clubs and points | LIVE | [Showcase](https://github.com/stambolce/loyaltyhub-rewards-platform) |
 | **Shorty** · [shorty.mk](https://shorty.mk) | Link management | LIVE | [Showcase](https://github.com/stambolce/shorty-url-shortener) |
 | **SocialFlow** · [socialflow.mk](https://socialflow.mk) | Messaging & automation | LIVE | [Showcase](https://github.com/stambolce/socialflow-messaging-platform) |
 | **SocialPilot** · [socialpilot.mk](https://socialpilot.mk) | Social publishing | LIVE | [Showcase](https://github.com/stambolce/socialpilot-platform) |
@@ -100,7 +100,7 @@ A dash in the GitHub column means that a standalone showcase has not yet been pu
 | **Astrology** · [astrology.mk](https://astrology.mk) | AI-enabled astrology and consultation platform | LIVE | [Showcase](https://github.com/stambolce/astrology-ai-platform) |
 | **HelpDesk** · [helpdesk.mk](https://helpdesk.mk) | LIVE PROCESS IN platform | LIVE | [Showcase](https://github.com/stambolce/helpdesk-support-platform) |
 | **SalesBoost** · [salesboost.mk](https://salesboost.mk) | LIVE PROCESS IN platform | LIVE | — |
-| **WooDesk** · [woodesk.mk](https://woodesk.mk) | LIVE PROCESS IN platform | LIVE | — |
+| **WooDesk** · [woodesk.mk](https://woodesk.mk) | Operating system for managing WooCommerce | LIVE | [Showcase](https://github.com/stambolce/woodesk-platform) |
 
 ## Infrastructure
 
@@ -113,7 +113,7 @@ A dash in the GitHub column means that a standalone showcase has not yet been pu
 - [CreativeDesk](https://creativedesk.mk) / [Magical](https://magical.mk)
 - [MailBoost](https://mailboost.mk) / [PowerInbox](https://powerinbox.mk)
 
-Frilenseri.mk currently displays WORKPlace branding, and woodesk.mk displays Workflow branding. Additional showcases for those domains await clarification of their relationship to avoid duplicates.
+Frilenseri.mk and Workplace.mk are two official domains for the same platform and share one product showcase. WooDesk is a separate WooCommerce management product. SalesBoost remains LIVE in the registry; its GitHub showcase is deferred at the owner's request.
 
 [PROCESS IN](https://processin.mk) · [Domain registry](registry.en.md) · [contact@processin.mk](mailto:contact@processin.mk)
 
