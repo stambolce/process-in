@@ -12,13 +12,25 @@
 [![Explore](https://img.shields.io/badge/Explore-Platform-14223c?style=for-the-badge)](https://socialpilot.mk/)
 [![PROCESS IN](https://img.shields.io/badge/Created_by-PROCESS_IN-1476e8?style=for-the-badge)](https://processin.mk)
 
-**LIVE** · Owner-confirmed
+**LIVE**
 
 </div>
 
 ## The product
 
 SocialPilot organizes social content from the first draft to publishing and analytics. The official site presents a workspace for connected channels, media, AI-assisted content and team coordination. Available channels and publishing options depend on the plan and provider settings.
+
+## Give the content plan a path to publication
+
+Social publishing combines ideas, copy, media, channel requirements and timing. When these are managed separately, the team has to reconstruct the campaign's context whenever a post moves forward.
+
+SocialPilot connects the calendar, content preparation, media library and connected profiles. A brand can organize the posts around a launch. An agency can coordinate planning and review in a workspace. A creator can prepare variations and maintain a recurring publishing rhythm.
+
+### Why it matters
+
+The calendar makes the plan visible; the media library keeps the supporting assets available; channel-specific preparation gives each post the context it needs. Analytics provides a way to examine results after publication and inform the next cycle.
+
+Begin with the campaign idea, identify its connected channels and prepare the content for each format. Review before scheduling, then follow publishing status and the analytics available for the configured channels.
 
 ## How it works
 
@@ -75,3 +87,7 @@ Source: [Official website](https://socialpilot.mk/).
 ---
 
 <sub>Public product presentation. No proprietary source code, customer data or production secrets. No open-source license to the product is granted.</sub>
+
+
+This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
+Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·

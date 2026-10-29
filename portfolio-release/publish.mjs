@@ -12,7 +12,10 @@ async function api(path, method='GET', body) {
   return response.status === 204 ? null : response.json();
 }
 const results = [];
-for (const p of manifest.products) {
+const request = JSON.parse(await fs.readFile('portfolio-release/release-request.json','utf8'));
+const selected = manifest.products.filter(p => request.slugs.includes(p.slug));
+if (selected.length !== request.slugs.length) throw new Error('Unknown requested product');
+for (const p of selected) {
   if (!/^[a-z0-9-]+$/.test(p.slug)) throw new Error('Invalid repository name');
   const full = owner+'/'+p.slug;
   let repo;
@@ -27,5 +30,6 @@ for (const p of manifest.products) {
   if (verified.private || verified.homepage !== p.website) throw new Error('Publication verification failed');
   results.push({repo:verified.html_url});
   console.log('Created/verified '+verified.html_url);
+  await new Promise(resolve => setTimeout(resolve, 5000));
 }
 await fs.appendFile(process.env.GITHUB_STEP_SUMMARY, '# Created repositories\n\n'+results.map(r=>'- ['+r.repo+']('+r.repo+')').join('\n')+'\n');

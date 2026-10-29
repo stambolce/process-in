@@ -12,13 +12,25 @@
 [![Explore](https://img.shields.io/badge/Explore-Platform-14223c?style=for-the-badge)](https://shorty.mk/)
 [![PROCESS IN](https://img.shields.io/badge/Created_by-PROCESS_IN-1476e8?style=for-the-badge)](https://processin.mk)
 
-**LIVE** · Owner-confirmed
+**LIVE**
 
 </div>
 
 ## The product
 
 Shorty combines short links, bio pages and QR codes in a link management platform. Its official website also presents campaign organization, analytics and an AI copilot for link-related work. The domain currently uses ShortURL wording in parts of its interface; this showcase follows the current Shorty name confirmed in the portfolio registry.
+
+## From a shared link to a managed destination
+
+A marketing campaign can have links in emails, social profiles, printed material and QR codes. The practical problem is keeping those destinations understandable and organized after they have been shared.
+
+Shorty brings the short URL, bio page and QR code into the same link-management context. A creator can collect important destinations on one bio page. A business can put a QR code on a menu or poster and manage the linked destination. A marketing team can organize related resources around a campaign and review click or scan information.
+
+### Why it matters
+
+The value extends beyond making a URL shorter: a recognizable address helps presentation, a bio page brings destinations together, and dynamic QR codes let the destination evolve without replacing the printed code. Analytics adds context for reviewing how the shared resources are used.
+
+Before launching, decide what the visitor should reach, how the link will be distributed and what you need to learn from the campaign.
 
 ## How it works
 
@@ -77,3 +89,7 @@ Source: [Official website](https://shorty.mk/).
 ---
 
 <sub>Public product presentation. No proprietary source code, customer data or production secrets. No open-source license to the product is granted.</sub>
+
+
+This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
+Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·

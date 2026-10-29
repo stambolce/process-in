@@ -1,6 +1,9 @@
 name: Publish approved PROCESS IN showcases
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['portfolio-release/release-request.json']
 permissions:
   contents: read
 concurrency:

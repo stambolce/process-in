@@ -12,13 +12,25 @@
 [![Explore](https://img.shields.io/badge/Explore-Platform-14223c?style=for-the-badge)](https://wedflow.mk/)
 [![PROCESS IN](https://img.shields.io/badge/Created_by-PROCESS_IN-1476e8?style=for-the-badge)](https://processin.mk)
 
-**LIVE** · Owner-confirmed
+**LIVE**
 
 </div>
 
 ## The product
 
 WedFlow brings wedding planning into a shared workspace for couples and planners. The official experience connects budget, guests, seating, schedules and guest participation, so the plan and the day stay connected.
+
+## Bring the wedding plan into one shared picture
+
+A wedding involves decisions that affect each other: guest confirmations influence seating, the venue affects the room plan, and suppliers need a clear schedule. Couples and planners need a place where these pieces can be considered together.
+
+WedFlow connects the budget, guest list, invitations, seating and day-of timeline. A couple can maintain the guest plan while a planner coordinates the schedule. The guest experience extends that preparation into the day through RSVPs, seat information and shared photos.
+
+### Where it helps
+
+During preparation, use the budget and checklist to make the work visible. As confirmations arrive, review the guest list and seating arrangement. Before the event, bring the schedule and vendor information together. During and after the celebration, guest links support participation and photo collection.
+
+The practical value is continuity: the preparation becomes information that the couple, planner and guests can use at the appropriate moment.
 
 ## How it works
 
@@ -77,3 +89,7 @@ Source: [Official website](https://wedflow.mk/).
 ---
 
 <sub>Public product presentation. No proprietary source code, customer data or production secrets. No open-source license to the product is granted.</sub>
+
+
+This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
+Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·

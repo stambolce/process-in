@@ -12,13 +12,25 @@
 [![Explore](https://img.shields.io/badge/Explore-Platform-14223c?style=for-the-badge)](https://socialflow.mk/)
 [![PROCESS IN](https://img.shields.io/badge/Created_by-PROCESS_IN-1476e8?style=for-the-badge)](https://processin.mk)
 
-**LIVE** · Owner-confirmed
+**LIVE**
 
 </div>
 
 ## The product
 
 SocialFlow is the PROCESS IN messaging and automation brand. Its current public experience presents a WaDesk-based workspace for WhatsApp conversations, campaign broadcasts, message templates and automated flows. This presentation describes that current public product scope without repeating the website's promotional usage figures.
+
+## Keep the conversation and the next action connected
+
+Customer communication involves more than sending a message. A team needs to understand the conversation, keep internal context and decide what should happen next. A campaign needs a defined audience, suitable message content and an organized sequence.
+
+SocialFlow brings these activities into a messaging workspace. The shared inbox supports team handling; templates give recurring messages a reusable structure; flows describe the sequence of actions around a conversation. Campaigns and audience segments support more deliberate communication.
+
+### Where the solution fits
+
+A support team can coordinate responses and internal notes around a customer conversation. A marketing team can prepare a follow-up sequence for its intended audience. Operations can examine conversation and campaign information when reviewing the work.
+
+The practical benefit is continuity between the message and the team's next action. Start with the customer's need, define the intended outcome and then choose the inbox, template or flow approach that fits.
 
 ## How it works
 
@@ -77,3 +89,7 @@ Source: [Official website](https://socialflow.mk/).
 ---
 
 <sub>Public product presentation. No proprietary source code, customer data or production secrets. No open-source license to the product is granted.</sub>
+
+
+This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
+Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·
