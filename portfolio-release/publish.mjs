@@ -17,7 +17,7 @@ for (const p of manifest.products) {
   const full = owner+'/'+p.slug;
   let repo;
   try { repo = await api('repos/'+full); } catch(e) {
-    if (!e.message.endsWith('HTTP 404')) throw e;
+    if (!e.message.includes('returned HTTP 404')) throw e;
     repo = await api('user/repos','POST',{name:p.slug,description:p.description,homepage:p.website,private:false,auto_init:true});
   }
   if (repo.private || repo.owner.login !== owner) throw new Error('Unexpected repository ownership or visibility');
