@@ -122,6 +122,83 @@
         "marketplace",
         "process-in"
       ]
+    },
+    {
+      "slug": "shorty-url-shortener",
+      "name": "Shorty",
+      "description": "Shorty — Link management. Official LIVE product showcase by PROCESS IN.",
+      "website": "https://shorty.mk",
+      "topics": [
+        "url-shortener",
+        "qr-code",
+        "link-management",
+        "analytics",
+        "process-in"
+      ]
+    },
+    {
+      "slug": "socialflow-messaging-platform",
+      "name": "SocialFlow",
+      "description": "SocialFlow — Messaging & automation. Official LIVE product showcase by PROCESS IN.",
+      "website": "https://socialflow.mk",
+      "topics": [
+        "messaging",
+        "whatsapp",
+        "customer-support",
+        "automation",
+        "process-in"
+      ]
+    },
+    {
+      "slug": "socialpilot-platform",
+      "name": "SocialPilot",
+      "description": "SocialPilot — Social publishing. Official LIVE product showcase by PROCESS IN.",
+      "website": "https://socialpilot.mk",
+      "topics": [
+        "social-media",
+        "content-calendar",
+        "social-publishing",
+        "marketing",
+        "process-in"
+      ]
+    },
+    {
+      "slug": "wedflow-platform",
+      "name": "WedFlow",
+      "description": "WedFlow — Wedding planning. Official LIVE product showcase by PROCESS IN.",
+      "website": "https://wedflow.mk",
+      "topics": [
+        "wedding-planning",
+        "guest-management",
+        "seating-chart",
+        "events",
+        "process-in"
+      ]
+    },
+    {
+      "slug": "clockscript-platform",
+      "name": "ClockScript",
+      "description": "ClockScript — Workout execution. Official LIVE product showcase by PROCESS IN.",
+      "website": "https://clockscript.mk",
+      "topics": [
+        "fitness",
+        "workout-timer",
+        "coaching",
+        "group-training",
+        "process-in"
+      ]
+    },
+    {
+      "slug": "trafficpilot-platform",
+      "name": "TrafficPilot",
+      "description": "TrafficPilot — Traffic campaigns. Official LIVE product showcase by PROCESS IN.",
+      "website": "https://trafficpilot.mk",
+      "topics": [
+        "web-traffic",
+        "campaign-management",
+        "analytics",
+        "process-in"
+      ]
     }
   ]
 }
