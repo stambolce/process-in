@@ -1,3 +1,5 @@
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
 # PROCESS IN
 
 **Развој на деловен софтвер · SaaS платформи · AI и автоматизација**

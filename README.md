@@ -1,3 +1,5 @@
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
 <div align="center">
 
 <a href="https://processin.mk"><img src="https://processin.mk/storage/logo/processin-logo-2026-finall-1.png" alt="Official PROCESS IN logo" width="360" style="background-color:#ffffff;padding:18px;border-radius:12px;" /></a>

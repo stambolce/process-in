@@ -1,3 +1,5 @@
+[Македонски](registry.mk.md) · [English](registry.en.md) · [Shqip](registry.sq.md) · [Türkçe](registry.tr.md)
+
 # PROCESS IN — Регистар на производи и брендови
 
 **Јавен информативен регистар · Македонски** | [English](registry.en.md)

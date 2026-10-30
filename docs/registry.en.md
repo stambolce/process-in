@@ -1,3 +1,5 @@
+[Македонски](registry.mk.md) · [English](registry.en.md) · [Shqip](registry.sq.md) · [Türkçe](registry.tr.md)
+
 # PROCESS IN — Product & Brand Registry
 
 **Public reference directory · English** | [Македонски](registry.mk.md)
